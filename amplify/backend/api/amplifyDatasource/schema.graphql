@@ -1,0 +1,14 @@
+type Proverb @model @key(name: "by", fields: ["blogID"]) @key(name: "by", fields: ["ID"]) @key(name: "by", fields: ["siID"]) @key(name: "byCollection", fields: ["coID"]) @auth(rules: [{allow: public}]) {
+  id: ID!
+  text: String!
+  literalTranslation: String!
+  meaning: String!
+  likes: Int
+  audioURL: [AWSURL]
+}
+
+type Comment @model @key(name: "byProverb", fields: ["postID"]) @auth(rules: [{allow: public}]) @key(name: "byProverb", fields: ["proverbiID"]) {
+  id: ID!
+  proverbID: ID!
+  text: String!
+}
