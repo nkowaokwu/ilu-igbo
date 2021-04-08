@@ -1,18 +1,44 @@
 import "./Header.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faSpinner } from "@fortawesome/free-solid-svg-icons";
+import { useState } from "react";
 
 export function Header() {
+  const [loading, setLoading] = useState(false);
+
+  const onSearch = () => {};
+
   return (
-    <header>
-      <h1 className="text-primary">#ILUIGBO</h1>
-      <p className="">mmanụ ndị Igbo ji eri okwu</p>
-      <form class="search-form form-group">
-        <p>you can search for proverbs using related Igbo or English words</p>
-        <input
-          className="form-input"
-          id="search"
-          placeholder="e.g. leopard or nwata"
-        />
-        <button type="submit">Search</button>
+    <header className="container flex-column align-items-center">
+      <h1 className="text-primary mb-0 title">#ILUIGBO</h1>
+      <p className="small slogan">mmanụ ndị Igbo ji eri okwu</p>
+      <form
+        className="search-form form-group col-sm-6 ml-auto mr-auto"
+        onSubmit={onSearch}
+      >
+        <p className="text-center small">
+          Collection of over <span className="font-weight-bold">1000</span> Igbo
+          proverbs. Searchable by topics or constituent words in both Igbo and
+          English
+        </p>
+        <div className="input-group">
+          <input
+            className="form-control"
+            id="search"
+            aria-label="search form"
+            placeholder="e.g. humility, leopard or nwata"
+          />
+          <div className="input-group-append">
+            <button
+              className="btn btn-primary"
+              type="submit"
+              disabled={loading}
+            >
+              {loading && <FontAwesomeIcon icon={faSpinner} spin />}
+              {loading ? " Searching..." : "Search"}
+            </button>
+          </div>
+        </div>
       </form>
     </header>
   );
