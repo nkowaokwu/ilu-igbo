@@ -5,6 +5,7 @@ import {
   faVolumeUp,
   faEllipsisV,
 } from "@fortawesome/free-solid-svg-icons";
+import { useState } from "react";
 
 export function ProverbCard({ proverb }) {
   console.log(
@@ -12,7 +13,11 @@ export function ProverbCard({ proverb }) {
     proverb
   );
 
+  const [showMeaning, setShowMeaning] = useState(false);
+
   const { text, literalTranslation, meaning, likes, audioUrl } = proverb;
+
+  const toggleMeaning = () => setShowMeaning(!showMeaning);
 
   return (
     <div className="col-md-7 mx-auto card my-2 p-0 proverb">
@@ -27,11 +32,11 @@ export function ProverbCard({ proverb }) {
             <FontAwesomeIcon icon={faVolumeUp} className="" />
           </a>
         </div>
-        <div className="more">
+        <div className="more" onClick={toggleMeaning}>
           <FontAwesomeIcon icon={faEllipsisV} className="" />
         </div>
       </div>
-      <div className="meaning p-3">{meaning}</div>
+      {showMeaning && <div className="meaning p-3">{meaning}</div>}
     </div>
   );
 }
