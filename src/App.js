@@ -1,7 +1,7 @@
 import "./App.css";
-import { Proverbs } from "./pages/proverbs/proverbs";
-import { Header } from "./components/Header/Header";
-import { Footer } from "./components/Footer/Footer";
+import { Proverbs } from "./pages/proverbs/Proverbs";
+import { Header } from "./components/header/Header";
+import { Footer } from "./components/footer/Footer";
 
 function App() {
   return (
