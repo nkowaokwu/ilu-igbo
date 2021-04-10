@@ -1,7 +1,8 @@
 footer {
   background-color: #ad3d4c;
+  font-size: small;
 }
 
-footer * {
+footer > * {
   color: #e0d1ca;
 }
