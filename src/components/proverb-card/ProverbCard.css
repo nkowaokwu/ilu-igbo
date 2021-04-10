@@ -1,0 +1,27 @@
+.proverb {
+  display: grid;
+  grid-template-columns: auto minmax(2rem, 5rem);
+}
+
+.text {
+  grid-column: 1/2;
+  grid-row: 1/3;
+  font-variant: small-caps;
+}
+
+.literal-translation {
+  grid-column: 1/2;
+  grid-row: 3/4;
+}
+
+.actions {
+  grid-column: 2/3;
+  grid-row: 1/4;
+}
+
+.meaning {
+  grid-column: 1/3;
+  grid-row: 4/5;
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+  padding-top: 1rem;
+}

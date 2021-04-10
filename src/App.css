@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,900;1,100&display=swap");
 * {
+  /* affect every damn element */
   font-family: roboto;
+}
+
+:root {
+  /* can root. Can easily be overriden */
   color: #3e3e3e;
 }

@@ -1,4 +1,5 @@
 export interface Comment {
-  proverbID: String;
-  text: String;
+  proverbID: string;
+  text: string;
+  authorName: string;
 }
