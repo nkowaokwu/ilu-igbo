@@ -19,7 +19,7 @@ export function Proverbs() {
   }, []);
 
   return (
-    <div className="row">
+    <div className="row px-3">
       {proverbs &&
         proverbs.map((proverb) => (
           <ProverbCard proverb={proverb} key={proverb.id} />

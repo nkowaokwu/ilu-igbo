@@ -9,10 +9,10 @@ export function Footer() {
       <div>
         Proverbs collated and curated by @nwa_eneh{" "}
         <a href="https://www.twitter.com/nwa_eneh">
-          <FontAwesomeIcon icon={faTwitter} />
+          <FontAwesomeIcon icon={faTwitter} className="dark-link" />
         </a>{" "}
         <a href="https://www.instagram.com/nwa_eneh">
-          <FontAwesomeIcon icon={faInstagram} />
+          <FontAwesomeIcon icon={faInstagram} className="dark-link" />
         </a>
       </div>
     </footer>

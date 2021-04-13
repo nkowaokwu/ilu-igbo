@@ -6,3 +6,7 @@ footer {
 footer > * {
   color: #e0d1ca;
 }
+
+.dark-link {
+  color: #3e3e3e;
+}
