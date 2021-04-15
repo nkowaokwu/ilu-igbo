@@ -1,12 +1,17 @@
 import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
-import { useState } from "react";
+import { useState, useRef } from "react";
 
-export function Header() {
+export function Header(props) {
   const [loading, setLoading] = useState(false);
+  const searchInput = useRef();
 
-  const onSearch = () => {};
+  const onSearch = (event) => {
+    event.preventDefault();
+    console.log("form submit. Search ref:", searchInput.current.value);
+    props.onSearch(searchInput.current.value);
+  };
 
   return (
     <header className="container flex-column align-items-center">
@@ -27,6 +32,7 @@ export function Header() {
             id="search"
             aria-label="search form"
             placeholder="e.g. humility, leopard or nwata"
+            ref={searchInput}
           />
           <div className="input-group-append">
             <button

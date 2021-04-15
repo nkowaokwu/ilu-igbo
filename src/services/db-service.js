@@ -45,15 +45,18 @@ export function createNewProverb(payload) {
 
 export function updateProverb(payload) {}
 
-export function queryProverbs(keyWords) {
-  if (!keyWords) return proverbs;
+export function queryProverbs(query, proverbs) {
+  if (!query) return proverbs;
+
+  const keyWords = query.split(/\s/).filter((w) => w !== "");
 
   return proverbs.filter((p) => {
-    const isMatch = keyWords.some((w) => {
+    const isMatch = keyWords.some((word) => {
+      const wRegExp = new RegExp(word, "i");
       return (
-        p.text.includes(w) ||
-        p.literalTranslation.includes(w) ||
-        p.meaning.includes(w)
+        p.text.match(wRegExp) ||
+        (p.literalTranslation && p.literalTranslation.match(wRegExp)) ||
+        (p.meaning && p.meaning.match(wRegExp))
       );
     });
     return isMatch;
