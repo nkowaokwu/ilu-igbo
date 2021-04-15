@@ -1,21 +1,22 @@
 import "./Proverbs.css";
 import { ProverbCard } from "../../components/proverb-card/ProverbCard";
 import { useEffect, useState } from "react";
-import api from "../../api-service";
+import * as api from "../../services/db-service";
+import { textToJson } from "../../services/helpers";
+import { PROVERBS } from "../../services/constants";
 
 export function Proverbs() {
   const [proverbs, setProverbs] = useState([]);
 
   useEffect(() => {
-    api
-      .fetchProverbs()
-      .then((payload) => {
-        console.log("proverbs gotten from api:", payload);
-        setProverbs(payload);
-      })
-      .catch((e) => {
-        console.log("error fetching proverbs from backend");
-      });
+    // api.fetchProverbs(() => {
+    //   setProverbs(api.queryProverbs());
+    // });
+  }, []);
+
+  useEffect(() => {
+    // console.log("proverbs json:", textToJson(PROVERBS));
+    setProverbs(textToJson(PROVERBS));
   }, []);
 
   return (
