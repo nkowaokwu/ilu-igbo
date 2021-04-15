@@ -2,7 +2,6 @@ import "./Proverbs.css";
 import { ProverbCard } from "../../components/proverb-card/ProverbCard";
 import { useEffect, useState } from "react";
 import * as api from "../../services/db-service";
-import { textToJson } from "../../services/helpers";
 import { PROVERBS } from "../../services/constants";
 
 export function Proverbs() {
@@ -15,8 +14,7 @@ export function Proverbs() {
   }, []);
 
   useEffect(() => {
-    // console.log("proverbs json:", textToJson(PROVERBS));
-    setProverbs(textToJson(PROVERBS));
+    setProverbs(PROVERBS);
   }, []);
 
   return (
