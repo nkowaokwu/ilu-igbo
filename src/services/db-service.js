@@ -1,5 +1,6 @@
 import firebase from "firebase/app";
 import "firebase/database";
+import { normalizedContains } from "./helpers";
 
 firebase.initializeApp({
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
@@ -50,13 +51,13 @@ export function queryProverbs(query, proverbs) {
 
   const keyWords = query.split(/\s/).filter((w) => w !== "");
 
-  return proverbs.filter((p) => {
+  return proverbs.filter((prov) => {
     const isMatch = keyWords.some((word) => {
-      const wRegExp = new RegExp(word, "i");
       return (
-        p.text.match(wRegExp) ||
-        (p.literalTranslation && p.literalTranslation.match(wRegExp)) ||
-        (p.meaning && p.meaning.match(wRegExp))
+        normalizedContains(prov.text, word) ||
+        (prov.literalTranslation &&
+          normalizedContains(prov.literalTranslation, word)) ||
+        (prov.meaning && normalizedContains(prov.meaning, word))
       );
     });
     return isMatch;

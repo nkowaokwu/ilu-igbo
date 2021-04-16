@@ -326,7 +326,7 @@ export const PROVERBS = [
   { text: "Onye na ejighi ego ona eshi ofe Owere?" },
   { text: "Anaghi agba aka, ahu nwata eze" },
   { text: "Ookwa onye meruo ala, ala achuwa ya oso" },
-  { text: "Okuko nyuo ahu, ala achuwa ya oso. " },
+  { text: "Ọkụkọ nyuo ahu, ala achuwa ya oso. " },
   { text: "Egbe bere, ugo bere, nke siri ibe ya ebena, nku kwaa ya" },
   { text: "Aka nri kwoo aka ekpe, aka ekpe akwoo aka nri" },
   { text: "Mkpa ka mkpa siwe ite, mkpa ka mkpa afotuo ya" },
