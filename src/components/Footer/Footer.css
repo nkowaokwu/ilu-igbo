@@ -1,0 +1,12 @@
+footer {
+  background-color: #ad3d4c;
+  font-size: small;
+}
+
+footer > * {
+  color: #e0d1ca;
+}
+
+.dark-link {
+  color: #3e3e3e;
+}
