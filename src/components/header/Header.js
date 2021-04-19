@@ -1,16 +1,15 @@
 import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
-import { useState, useRef } from "react";
+import { useRef } from "react";
 
-export function Header(props) {
-  const [loading, setLoading] = useState(false);
+export function Header({ onSearch, isSearching }) {
   const searchInput = useRef();
 
-  const onSearch = (event) => {
+  const handleSearch = (event) => {
     event.preventDefault();
     console.log("form submit. Search ref:", searchInput.current.value);
-    props.onSearch(searchInput.current.value);
+    onSearch(searchInput.current.value);
   };
 
   return (
@@ -19,7 +18,7 @@ export function Header(props) {
       <p className="small slogan">mmanụ ndị Igbo ji eri okwu</p>
       <form
         className="search-form form-group col-sm-6 ml-auto mr-auto"
-        onSubmit={onSearch}
+        onSubmit={handleSearch}
       >
         <p className="text-center small">
           Collection of over <span className="font-weight-bold">1000</span> Igbo
@@ -38,10 +37,10 @@ export function Header(props) {
             <button
               className="btn btn-primary"
               type="submit"
-              disabled={loading}
+              disabled={isSearching}
             >
-              {loading && <FontAwesomeIcon icon={faSpinner} spin />}
-              {loading ? " Searching..." : "Search"}
+              {isSearching && <FontAwesomeIcon icon={faSpinner} spin />}
+              {isSearching ? " Searching..." : "Search"}
             </button>
           </div>
         </div>
