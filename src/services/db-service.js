@@ -29,7 +29,7 @@ export function fetchProverbs(done) {
   });
 }
 
-export function createProverb(payload) {
+export function createProverb(payload, done) {
   // Get a key for a new Post.
   var newPostKey = db.ref().child("proverbs").push().key;
 
@@ -42,7 +42,7 @@ export function createProverb(payload) {
     });
   }
 
-  return firebase.database().ref().update(updates);
+  return firebase.database().ref().update(updates, done);
 }
 
 export function updateProverb(payload) {}
@@ -65,8 +65,11 @@ export function queryProverbs(query) {
   });
 }
 
-export function batchUpload(provArray) {
+export function batchUpload(provArray, done) {
   Promise.all(provArray.map((p) => createProverb(p)))
-    .then(console.log)
+    .then((res) => {
+      console.log();
+      done();
+    })
     .catch(console.error);
 }
