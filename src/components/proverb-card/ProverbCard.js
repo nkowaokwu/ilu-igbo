@@ -8,11 +8,6 @@ import {
 import { useState } from "react";
 
 export function ProverbCard({ proverb }) {
-  console.log(
-    "proverb card component called with this proverb object:",
-    proverb
-  );
-
   const [showMeaning, setShowMeaning] = useState(false);
 
   const { text, literalTranslation, meaning, likes, audioUrl } = proverb;
