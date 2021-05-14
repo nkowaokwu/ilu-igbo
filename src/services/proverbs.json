@@ -1,563 +1,1637 @@
 [
-  { "text": "Onye Kworo ihe oke na eme osuo ụlọ ọkụ" },
   {
+    "id": "-MYaMmjAb0x2YA5YjRDY",
+    "literalTranslation": "If one starts thinking of the atrocities committed by the rat he may be tempted to burn down his own house in anger",
+    "meaning": "Don't take other people's ill deeds to heart",
+    "text": "Onye Kworo ihe oke na eme osuo ụlọ ọkụ"
+  },
+  {
+    "id": "-MYaMmjOvwSGqFMrQtmX",
+    "literalTranslation": "I will not bother telling an old woman to blow her nose. Because I would not have to eat her head when she dies",
+    "meaning": "Mind your business",
     "text": "Agaghị m agwa agadi nwanyị zie imi makana ọbụghịm ga ata isi ya ma ọ nwụọ"
   },
-  { "text": "Nkịta sịrị kama ịnọ nkịtị ya arachawa mkpụrụ amụ ya" },
   {
+    "id": "-MYaMmjS8TPIMm_zVmdB",
+    "literalTranslation": "The dog said instead of being idle he would rather busy himself with licking his balls",
+    "text": "Nkịta sịrị kama ịnọ nkịtị ya arachawa mkpụrụ amụ ya"
+  },
+  {
+    "id": "-MYaMmjUC3-E5Wpv6AGa",
+    "literalTranslation": "The housefly said it cannot stop perching on wounds just because his kinsmen are dying off suddenly",
     "text": "Ijiji sịrị na ya agaghị eji maka ọnwụ ike na egbu ụmụnna ya nwee hapụ ị́bè n'ọnya"
   },
-  { "text": "Nwanyi anaghị ama uru dị bara ruokwa mgbe ọ ghọrọ ajadụ" },
-  { "text": "Makana anụ ji eze arị elu maara osisi na eli ilu" },
-  { "text": "Okenye sịrị na ya amaghị egwu ala, wụ okenye arụrụ ala" },
-  { "text": "Ana achụ mbekwu n'ị́ké, ọ ga èfé elu?" },
-  { "text": "Ọ bụ íché ha ka ényí ka ana ama enyi" },
-  { "text": "Ntukwu nwanyi adịghị mma na ala ata" },
-  { "text": "Onye amụ ibi rigoro n'elu nkwụ, obele adị anọ" },
   {
+    "id": "-MYaMmj_YUfbDGOf1Ai4",
+    "literalTranslation": "A woman does not know the value of a husband until when he dies",
+    "meaning": "People don't know the value of a thing until the thing is no more",
+    "text": "Nwanyi anaghị ama uru dị bara ruokwa mgbe ọ ghọrọ ajadụ"
+  },
+  {
+    "id": "-MYaMmjbjUsfI1o-6-0H",
+    "literalTranslation": "The animal that climbs using its teeth knows the bitter trees",
+    "meaning": "Experience gives insight",
+    "text": "Makana anụ ji eze arị elu maara osisi na eli ilu"
+  },
+  {
+    "id": "-MYaMmje3W0WorW725Xg",
+    "literalTranslation": "The elder who says he does not know how to dig the earth is a mischievous elder",
+    "text": "Okenye sịrị na ya amaghị egwu ala, wụ okenye arụrụ ala"
+  },
+  {
+    "id": "-MYaMmjfTM3LQ5wKGn0_",
+    "literalTranslation": "Does one pursue the tortoise with great speed? Is it going to fly?",
+    "text": "Ana achụ mbekwu n'ị́ké, ọ ga èfé elu?"
+  },
+  {
+    "id": "-MYaMmjg6vubDv41PTuH",
+    "literalTranslation": "It is a stone the size of an elephant that you throw at an elephant",
+    "meaning": "Big problems require big approach",
+    "text": "Ọ bụ íché ha ka ényí ka ana ama enyi"
+  },
+  {
+    "id": "-MYaMmjjHA5SCebZgNay",
+    "text": "Ntukwu nwanyi adịghị mma na ala ata"
+  },
+  {
+    "id": "-MYaMmjk4DC_tGrn9KXE",
+    "text": "Onye amụ ibi rigoro n'elu nkwụ, obele adị anọ"
+  },
+  {
+    "id": "-MYaMmjm5PEiOD900W0i",
     "text": "Ana agwa ayari okwu ọna ekwe n'isi, amaghị ka o kwere ekwe ka ọ jụrụ ajụ"
   },
-  { "text": "Ihe nwoke meere ibe ya bụ ngaa jiderem" },
   {
+    "id": "-MYaMmjm5PEiOD900W0j",
+    "literalTranslation": "The favour a man does for his fellow man is like giving someone something to keep for you",
+    "meaning": "One good turn deserves another",
+    "text": "Ihe nwoke meere ibe ya bụ ngaa jiderem"
+  },
+  {
+    "id": "-MYaMmjnvetfRyI1ySzr",
+    "literalTranslation": "A woman at the diviner's shrine mistakenly farted. The diviner asked her what was the matter? And she replied that the farting was part of the problems that made her visit",
     "text": "Nwanyị ana agbara áfā ka ahụ pụnarịrị nwadibia ajụọ ya ọgịnị, ọsị na ọbụ ha ncha ka oji maka ya bia"
   },
-  { "text": "Ọnụ ihe mere ede ji bee wịị" },
-  { "text": "Onyeìsì ka agwara na ọgọ ya abiaghi, ọ sị na otego ya hụrụ ya" },
-  { "text": "Onye na eri ihe onye ọrịa ọcha na akpụ ya ị́sị́" },
-  { "text": "Abọọ mgbada mgbe egburu ya, olu agaghị eho ya" },
-  { "text": "Ụsakụsa rie ogwumagana ọ kwụsị iri anụ" },
+  { "id": "-MYaMmjnvetfRyI1ySzs", "text": "Ọnụ ihe mere ede ji bee wịị" },
   {
+    "id": "-MYaMmjoAcBOzmolLLhv",
+    "literalTranslation": "A blind man was told that his inlaw has come, and he responds that it has been a long time he set his eyes on the said inlaw",
+    "text": "Onyeìsì ka agwara na ọgọ ya abiaghi, ọ sị na otego ya hụrụ ya"
+  },
+  {
+    "id": "-MYaMmjpzU-DQEC6Rcmb",
+    "text": "Onye na eri ihe onye ọrịa ọcha na akpụ ya ị́sị́"
+  },
+  {
+    "id": "-MYaMmjqd1iC-Xp-u_KL",
+    "text": "Abọọ mgbada mgbe egburu ya, olu agaghị eho ya"
+  },
+  {
+    "id": "-MYaMmjs1wMsdqMPf5vN",
+    "literalTranslation": "When the glutton eats the chameleon, he would stop eating meat",
+    "text": "Ụsakụsa rie ogwumagana ọ kwụsị iri anụ"
+  },
+  {
+    "id": "-MYaMmjtaXvpliIVWyx1",
     "text": "Monkey sịrị na áhà ya bụ Michael na ọbụ ndị mkpọrọmasi na akpọ ya monkey"
   },
-  { "text": "Nwata rie nri okenye, ndị mmụọ ahụwa ya ama" },
-  { "text": "Enwe ana amaka bụ na osisi didebere" },
-  { "text": "Ọsọ ugwu abụghị ihe ọhụrụ na ebe mgbada nọ" },
-  { "text": "Alụọ nwanyi ọhụụ ọ zaa ámá chiri echi" },
   {
-    "text": "Mbekwu sịrị na nkụzi na agụ ya mana aka ya agaghị eruzi na ebe edemede"
+    "id": "-MYaMmjtaXvpliIVWyx2",
+    "literalTranslation": "If a child eats a food meant for elders, the spirits take notice of him (in a bad way)",
+    "text": "Nwata rie nri okenye, ndị mmụọ ahụwa ya ama"
   },
-  { "text": "Akwụnye anụ n'ọkụ, nwata ejee ozi esibeghị ya ezi" },
   {
+    "id": "-MYaMmjuJWwmcJc1Wgdb",
+    "literalTranslation": "The monkey can so jump is because the trees are close together",
+    "text": "Enwe ana amaka bụ na osisi didebere"
+  },
+  {
+    "id": "-MYaMmjv4S5bp1YaD0ut",
+    "literalTranslation": "Mountain race is nothing new to the antelope",
+    "text": "Ọsọ ugwu abụghị ihe ọhụrụ na ebe mgbada nọ"
+  },
+  {
+    "id": "-MYaMmjxbpwcVT95nnWw",
+    "text": "Akwụnye anụ n'ọkụ, nwata ejee ozi esibeghị ya ezi"
+  },
+  {
+    "id": "-MYaMmjxbpwcVT95nnWx",
     "text": "Edebeghi n'elu ụlọ maka oké, edebeghi na-ala maka ewu keduzi ebe aga edebezi"
   },
-  { "text": "Oke ji ọsọ na n'ọnụ agwọ bụ azụ ka ọga eji apụta" },
-  { "text": "Nkịta nyara akpa nsi agwụ na ọhịa" },
-  { "text": "Onye nna ya dara ibi ihe ukwu adịghịzị atụ ya egwu" },
-  { "text": "Ofeke mụta ịta atụ osisi dị na ọhịa agwụ" },
-  { "text": "Emee onye ara conductor, ofegbuo onwe ya n'aka" },
-  { "text": "Ọnụ mpio gbaa ngọ nkịta achara aba" },
-  { "text": "Ọbụ ose ka-eji ata anụ rere ure" },
-  { "text": "Asogide onye anya, ekpuru nkata n'ihu gwa ya okwu" },
-  { "text": "Ana ekwu na akpa ezighị ndị dibia ofeke ayara abụọ na akpagharị" },
-  { "text": "Oke gwara ibi ya awakwana anya, na orughi ka ihe oji eze atawa" },
-  { "text": "Ọbughi ihe niile na atọ nwanyị ụtọ na atọ ya amụ" },
-  { "text": "Onye ara gwara onye ibi na ọchọọ ka akụwasịwa akụwasịwa" },
-  { "text": "Ana agwa onye ibi ya amana aja, ọkwa ọmachaa ihe ọhụrụ o nwere" },
-  { "text": "Maamiri bụ ... Mana onweghịzị ebe aga esi jide ya aka" },
-  { "text": "Amụ kelibe ọdị ka ọga agbawa ikpu" },
-  { "text": "Ọ bụghị ebe aka ewu zọrọ ka ụkwụ ya na azọ" },
-  { "text": "Ọbụ oke ịgba ajị n'ị́kè na ebulata nsị n'ụlọ" },
-  { "text": "Ọọ kwa uche ka eji agba adaka" },
-  { "text": "Mgbada yia ka ényí ike awara ya" },
-  { "text": "Agaghị ejikwa na ịsị ọkụkọ epeka nwere sị na nya na ewu bụ ọgbọ" },
-  { "text": "Ọkụkọ mmanya na egbu hụ égbé ara na agba isi ajụọ ya oyi" },
-  { "text": "Tụpụrụ nkịta ọkpụkpụ n'ezi hapụziere ya ọgụ ya na ndi mmụọ" },
-  { "text": "Ọtachara akị tufuo nkume, ocheere na akị agaghị agụzị ya ọzọ?" },
-  { "text": "Ihe na esi nkakwụ isi dị ya na ọkpụkpụ" },
-  { "text": "Ọgaranya jere mba anụ juru ala, wụ ndị ọna enye nyekwara ya" },
   {
+    "id": "-MYaMmjzZJJtZYy_ZO5c",
+    "text": "Oke ji ọsọ na n'ọnụ agwọ bụ azụ ka ọga eji apụta"
+  },
+  { "id": "-MYaMmk-8Zk3NsuF9oge", "text": "Nkịta nyara akpa nsi agwụ na ọhịa" },
+  {
+    "id": "-MYaMmk-8Zk3NsuF9ogf",
+    "text": "Onye nna ya dara ibi ihe ukwu adịghịzị atụ ya egwu"
+  },
+  {
+    "id": "-MYaMmk0Gyu7Gq8aglzm",
+    "text": "Ofeke mụta ịta atụ osisi dị na ọhịa agwụ"
+  },
+  {
+    "id": "-MYaMmk1Wbkc0ggwommr",
+    "text": "Emee onye ara conductor, ofegbuo onwe ya n'aka"
+  },
+  {
+    "id": "-MYaMmk1Wbkc0ggwomms",
+    "text": "Ọnụ mpio gbaa ngọ nkịta achara aba"
+  },
+  { "id": "-MYaMmk2lIoKCGjkqTBX", "text": "Ọbụ ose ka-eji ata anụ rere ure" },
+  {
+    "id": "-MYaMmk3DRCT3TMDcWki",
+    "text": "Asogide onye anya, ekpuru nkata n'ihu gwa ya okwu"
+  },
+  {
+    "id": "-MYaMmk4yaVPMk0ZrMXX",
+    "text": "Ana ekwu na akpa ezighị ndị dibia ofeke ayara abụọ na akpagharị"
+  },
+  {
+    "id": "-MYaMmk4yaVPMk0ZrMXY",
+    "text": "Oke gwara ibi ya awakwana anya, na orughi ka ihe oji eze atawa"
+  },
+  {
+    "id": "-MYaMmk5mMPOfbtMiwEn",
+    "text": "Ọbughi ihe niile na atọ nwanyị ụtọ na atọ ya amụ"
+  },
+  {
+    "id": "-MYaMmk5mMPOfbtMiwEo",
+    "text": "Onye ara gwara onye ibi na ọchọọ ka akụwasịwa akụwasịwa"
+  },
+  {
+    "id": "-MYaMmk5mMPOfbtMiwEp",
+    "text": "Ana agwa onye ibi ya amana aja, ọkwa ọmachaa ihe ọhụrụ o nwere"
+  },
+  {
+    "id": "-MYaMmk7fvzQWGDz3CvX",
+    "text": "Maamiri bụ ... Mana onweghịzị ebe aga esi jide ya aka"
+  },
+  { "id": "-MYaMmk7fvzQWGDz3CvY", "text": "Amụ kelibe ọdị ka ọga agbawa ikpu" },
+  {
+    "id": "-MYaMmk7fvzQWGDz3CvZ",
+    "text": "Ọ bụghị ebe aka ewu zọrọ ka ụkwụ ya na azọ"
+  },
+  {
+    "id": "-MYaMmk8s8DmtThoZ77u",
+    "text": "Ọbụ oke ịgba ajị n'ị́kè na ebulata nsị n'ụlọ"
+  },
+  { "id": "-MYaMmk8s8DmtThoZ77v", "text": "Ọọ kwa uche ka eji agba adaka" },
+  { "id": "-MYaMmk8s8DmtThoZ77w", "text": "Mgbada yia ka ényí ike awara ya" },
+  {
+    "id": "-MYaMmk8s8DmtThoZ77x",
+    "text": "Agaghị ejikwa na ịsị ọkụkọ epeka nwere sị na nya na ewu bụ ọgbọ"
+  },
+  {
+    "id": "-MYaMmk8s8DmtThoZ77y",
+    "text": "Ọkụkọ mmanya na egbu hụ égbé ara na agba isi ajụọ ya oyi"
+  },
+  {
+    "id": "-MYaMmk9TOyhQAweXi1P",
+    "text": "Tụpụrụ nkịta ọkpụkpụ n'ezi hapụziere ya ọgụ ya na ndi mmụọ"
+  },
+  {
+    "id": "-MYaMmkBcaK52fTNFLMq",
+    "text": "Ọtachara akị tufuo nkume, ocheere na akị agaghị agụzị ya ọzọ?"
+  },
+  {
+    "id": "-MYaMmkC4FNp0e5uNVGi",
+    "text": "Ihe na esi nkakwụ isi dị ya na ọkpụkpụ"
+  },
+  {
+    "id": "-MYaMmkEsCi8rvtPPwNI",
+    "text": "Ọgaranya jere mba anụ juru ala, wụ ndị ọna enye nyekwara ya"
+  },
+  {
+    "id": "-MYaMmkEsCi8rvtPPwNJ",
     "text": "Atanị onye chọrọ ịja ya mma ya jaa ugbua anya ka doro ya. Makana égwú baa na nchịchịpụ anya onweghịzị onye ga ámá onye bụ onye"
   },
   {
+    "id": "-MYaMmkFh1XdmRHl2zJ9",
     "text": "Onye chọọ ịma ọ́ya yara ènwè, ya ga lee atanị fụrụ ya ọkụ anya na anya ka ọhụ ka anya dị ya"
   },
-  { "text": "Onye lewe anya na ...anya enwe jị dị na ọbá agwụ" },
-  { "text": "E nwere ilu ilu bie okwu, ofeke agbara aka laa" },
-  { "text": "Esoro ụtọ ọgbọnọ arahụ n'ihu ukwu adọ" },
-  { "text": "Anam emere onye isiukwu ebere, ọbụ mụ ga akwárá ya okpu" },
   {
+    "id": "-MYaMmkFh1XdmRHl2zJA",
+    "text": "Onye lewe anya na ...anya enwe jị dị na ọbá agwụ"
+  },
+  {
+    "id": "-MYaMmkGTFkd62fAw5WL",
+    "text": "E nwere ilu ilu bie okwu, ofeke agbara aka laa"
+  },
+  {
+    "id": "-MYaMmkGTFkd62fAw5WM",
+    "text": "Esoro ụtọ ọgbọnọ arahụ n'ihu ukwu adọ"
+  },
+  {
+    "id": "-MYaMmkGTFkd62fAw5WN",
+    "text": "Anam emere onye isiukwu ebere, ọbụ mụ ga akwárá ya okpu"
+  },
+  {
+    "id": "-MYaMmkHnWqzEaUqP7pm",
     "text": "Nwa olokpo sịrị na ihe ya ji ekpochi nsị ya aja bụ na ọnaghị ara ahụ ihe mmadụ aghọrọ nke onye ọzọ"
   },
-  { "text": "Mgbe amụrụ dike na mba ka amụrụ ibe ya" },
-  { "text": "Mgbe nne amụbeghị ọchịagha ọkwa ndị ọgụ na agarị" },
   {
+    "id": "-MYaMmkHnWqzEaUqP7pn",
+    "text": "Mgbe amụrụ dike na mba ka amụrụ ibe ya"
+  },
+  {
+    "id": "-MYaMmkIZuLZc8Re7qfx",
+    "text": "Mgbe nne amụbeghị ọchịagha ọkwa ndị ọgụ na agarị"
+  },
+  {
+    "id": "-MYaMmkJz6QjX23pdALa",
     "text": "Ọkụ m jị hụnye jị kam ma, nke na agba achara na agụ ka mụ amaghị"
   },
-  { "text": "Mbe na mbe gaa ahịa, uru anaghị adị ya" },
-  { "text": "Nwa ọkụkọ gbaa olu nne ya ahapụ ya" },
-  { "text": "Anya mmiri okenye na acha nzu nzu" },
-  { "text": "Ahụghị nwoke na ubi, ayọọ nwanyị ji" },
-  { "text": "Nwata hụkaria onyị nne ya, o gbuo ya mma ekwu" },
-  { "text": "Ejide ibe ji na aka, asaa agụụ okwu" },
   {
+    "id": "-MYaMmkKtqXAyTBYHepA",
+    "text": "Mbe na mbe gaa ahịa, uru anaghị adị ya"
+  },
+  {
+    "id": "-MYaMmkKtqXAyTBYHepB",
+    "text": "Nwa ọkụkọ gbaa olu nne ya ahapụ ya"
+  },
+  { "id": "-MYaMmkLePi18Nqzcoku", "text": "Anya mmiri okenye na acha nzu nzu" },
+  {
+    "id": "-MYaMmkLePi18Nqzcokv",
+    "text": "Ahụghị nwoke na ubi, ayọọ nwanyị ji"
+  },
+  {
+    "id": "-MYaMmkLePi18Nqzcokw",
+    "text": "Nwata hụkaria onyị nne ya, o gbuo ya mma ekwu"
+  },
+  {
+    "id": "-MYaMmkMrh5UO1ma96y8",
+    "text": "Ejide ibe ji na aka, asaa agụụ okwu"
+  },
+  {
+    "id": "-MYaMmkMrh5UO1ma96y9",
     "text": "Nwanza sịrị sị gbawara ya afa ndụ, ma ọ bụrụ maka uto, onye ọbụla dị ndụ ga etoriri eto"
   },
-  { "text": "Ọbụrụ na ọnwụ egbughị ji e jiri chụọ emechaa ọ ga epuriri ome" },
-  { "text": "Ihe ọ masịrị ọkụkọ daa oké ọnụ ahịa, agaghị nwa nnụnụ achụ aja" },
-  { "text": "Ebee ka egbugbere ọnụ jere mmiri ji ama eze" },
-  { "text": "Mgbe ụtaba apụtebee o nwere onye azụzụ gburu" },
-  { "text": "Ọna awụ ahụchaa ọnụ nnụnụ ajụwakwa kedụ ebe osi eri nri" },
-  { "text": "Agụubi bee elu bee ala, anyị maara ólú diọkpa ọkụkọ" },
-  { "text": "Achọwa ebe nwa mkpi si bịa ụwa agawa ikwu nne ya" },
-  { "text": "Ngịga dị na ọkụ ma ọ bụghị nke anụ ọ bụrụ nke azụ" },
-  { "text": "Ma ọ bụrụ na mmiri ebughi ogwe na uje ọga ebu ya na ụla" },
-  { "text": "Akwa agbataobi na echu ụra" },
-  { "text": "Si kelee onye nti chiri, ma elu anughi, ala ga anu" },
   {
+    "id": "-MYaMmkMrh5UO1ma96yA",
+    "text": "Ọbụrụ na ọnwụ egbughị ji e jiri chụọ emechaa ọ ga epuriri ome"
+  },
+  {
+    "id": "-MYaMmkNBLu-QW4g7lGJ",
+    "text": "Ihe ọ masịrị ọkụkọ daa oké ọnụ ahịa, agaghị nwa nnụnụ achụ aja"
+  },
+  {
+    "id": "-MYaMmkNBLu-QW4g7lGK",
+    "text": "Ebee ka egbugbere ọnụ jere mmiri ji ama eze"
+  },
+  {
+    "id": "-MYaMmkNBLu-QW4g7lGL",
+    "text": "Mgbe ụtaba apụtebee o nwere onye azụzụ gburu"
+  },
+  {
+    "id": "-MYaMmkOZWiqoTPhqKxj",
+    "text": "Ọna awụ ahụchaa ọnụ nnụnụ ajụwakwa kedụ ebe osi eri nri"
+  },
+  {
+    "id": "-MYaMmkOZWiqoTPhqKxk",
+    "text": "Agụubi bee elu bee ala, anyị maara ólú diọkpa ọkụkọ"
+  },
+  {
+    "id": "-MYaMmkPfFWo17vujPpZ",
+    "text": "Achọwa ebe nwa mkpi si bịa ụwa agawa ikwu nne ya"
+  },
+  {
+    "id": "-MYaMmkPfFWo17vujPp_",
+    "text": "Ngịga dị na ọkụ ma ọ bụghị nke anụ ọ bụrụ nke azụ"
+  },
+  {
+    "id": "-MYaMmkQoF_RxVeDWgXU",
+    "text": "Ma ọ bụrụ na mmiri ebughi ogwe na uje ọga ebu ya na ụla"
+  },
+  { "id": "-MYaMmkRhU4IDdehrjT9", "text": "Akwa agbataobi na echu ụra" },
+  {
+    "id": "-MYaMmkRhU4IDdehrjTA",
+    "text": "Si kelee onye nti chiri, ma elu anughi, ala ga anu"
+  },
+  {
+    "id": "-MYaMmkSqRqbffaQzub_",
     "text": "Onye ibi dinara ala, ọdika o dinara isi ghàrịịghà (ọdika o nweziri isi abụọ)"
   },
-  { "text": "Ana asị agadi nwanyị mechie ụkwụ, ịma ebe osi eku ume" },
   {
+    "id": "-MYaMmkT746QPKw-7O9f",
+    "text": "Ana asị agadi nwanyị mechie ụkwụ, ịma ebe osi eku ume"
+  },
+  {
+    "id": "-MYaMmkT746QPKw-7O9g",
     "text": "Adịghị ezo ezo agakwuru nwanyị ajadụ, makana amaara ebe di ya nọ"
   },
-  { "text": "Atụọ anya nna ahụghị, ekee nwa ọkpọ" },
-  { "text": "Oloro agụba na aṅụrị ọnụ, ọ nyụọla nsị" },
   {
+    "id": "-MYaMmkURQsyPfGzkmYl",
+    "text": "Atụọ anya nna ahụghị, ekee nwa ọkpọ"
+  },
+  {
+    "id": "-MYaMmkURQsyPfGzkmYm",
+    "text": "Oloro agụba na aṅụrị ọnụ, ọ nyụọla nsị"
+  },
+  {
+    "id": "-MYaMmkVhC-S6hrC0Oz1",
     "text": "Agaghị eji makana na agụ na emeri enwe adị ụdara nwa enwe n'ụdị nke agụ"
   },
-  { "text": "Ọbụ onye nzuzu rere mma ya tụrụ ọbọ" },
-  { "text": "Ana akpụ arụ mere eme, nwa mkpi ana achụharị" },
-  { "text": "Ejighi okwute elele isi kara aka" },
-  { "text": "Ụkwa dara na ụbọchị oriri adaghị na oge" },
-  { "text": "Ọ na aka mmá ka ọkụkọ nwere aka ya tụwaa akwa ya" },
-  { "text": "Ana agwa nwata na ọ na egbu onwe ya, ọsị kedụ ọbara" },
-  { "text": "Ihe onye bara nkịta ya ka ọ ga aza" },
   {
+    "id": "-MYaMmkVhC-S6hrC0Oz2",
+    "text": "Ọbụ onye nzuzu rere mma ya tụrụ ọbọ"
+  },
+  {
+    "id": "-MYaMmkWH4spPv8ACoYg",
+    "text": "Ana akpụ arụ mere eme, nwa mkpi ana achụharị"
+  },
+  { "id": "-MYaMmkXtNelS2svQC5E", "text": "Ejighi okwute elele isi kara aka" },
+  {
+    "id": "-MYaMmkXtNelS2svQC5F",
+    "text": "Ụkwa dara na ụbọchị oriri adaghị na oge"
+  },
+  {
+    "id": "-MYaMmkYalSD5KF6hkRn",
+    "text": "Ọ na aka mmá ka ọkụkọ nwere aka ya tụwaa akwa ya"
+  },
+  {
+    "id": "-MYaMmkYalSD5KF6hkRo",
+    "text": "Ana agwa nwata na ọ na egbu onwe ya, ọsị kedụ ọbara"
+  },
+  {
+    "id": "-MYaMmkZn4QhwpjrW5sJ",
+    "text": "Ihe onye bara nkịta ya ka ọ ga aza"
+  },
+  {
+    "id": "-MYaMmk_tUuZAFDpGxrK",
     "text": "Ihe eji etiri ibi mkpu bu na ebe ọ dị ajọka, ọ bụrụ ma, orughi ka ihe ana agwọ ajụ bụrụ n'isi"
   },
-  { "text": "Akụ yie nwata egwu, ochee na ya abaala ọgaranya" },
-  { "text": "Di na nwunye rijuo afọ lụwa ọgụ, ndị bu ọnụ aka ha mma" },
-  { "text": "Adịghị akọọrọ akpịrị akọọrọ na ya na ụtara bụ nwanne" },
-  { "text": "Ọbụ oke ịgba iche iche mere na agwọ enweghị ụmụnna" },
-  { "text": "Ana esi na ihọ oke ama onye wụ okenye" },
-  { "text": "Egbuo anụ nwanyị esighi eri, ńnú na ose akọọ ụkọ n'ụlọ" },
-  { "text": "Ọbụrụ na ọkụkọ ekpee ọchịcha ikpe ikpe ga amarịrị ọchịcha" },
   {
+    "id": "-MYaMmk_tUuZAFDpGxrL",
+    "text": "Akụ yie nwata egwu, ochee na ya abaala ọgaranya"
+  },
+  {
+    "id": "-MYaMmka872__CvWMnd4",
+    "text": "Di na nwunye rijuo afọ lụwa ọgụ, ndị bu ọnụ aka ha mma"
+  },
+  {
+    "id": "-MYaMmkbRy56_nFIu8h5",
+    "text": "Adịghị akọọrọ akpịrị akọọrọ na ya na ụtara bụ nwanne"
+  },
+  {
+    "id": "-MYaMmkcOwdlxQM6WDi5",
+    "text": "Ọbụ oke ịgba iche iche mere na agwọ enweghị ụmụnna"
+  },
+  {
+    "id": "-MYaMmkdeYCwNwR3aZrp",
+    "text": "Ana esi na ihọ oke ama onye wụ okenye"
+  },
+  {
+    "id": "-MYaMmkdeYCwNwR3aZrq",
+    "text": "Egbuo anụ nwanyị esighi eri, ńnú na ose akọọ ụkọ n'ụlọ"
+  },
+  {
+    "id": "-MYaMmkgdkDgx2tWTMfA",
+    "text": "Ọbụrụ na ọkụkọ ekpee ọchịcha ikpe ikpe ga amarịrị ọchịcha"
+  },
+  {
+    "id": "-MYaMmkgdkDgx2tWTMfB",
     "text": "Udene sịrị na mmiri amaka ya na afọ a, na afọ ọzọ ọ ga arụta ụlọ?"
   },
-  { "text": "Ogazi amaka mana ejighi ya ago mmuo" },
   {
+    "id": "-MYaMmkhEf-e_xiZXtRC",
+    "text": "Ogazi amaka mana ejighi ya ago mmuo"
+  },
+  {
+    "id": "-MYaMmkhEf-e_xiZXtRD",
     "text": "Udele buru anu oriri, onye isi ututu agaghi ahu ya. (If vultures had any value, even the early morning hunters won't be able to see it)"
   },
-  { "text": "Anụ egburu egbu anaghị atụ obere mma egwu" },
-  { "text": "Ọ dịrị isi mma ọ dịrị agụba" },
   {
+    "id": "-MYaMmkix0WxR_VXw7JK",
+    "text": "Anụ egburu egbu anaghị atụ obere mma egwu"
+  },
+  { "id": "-MYaMmkix0WxR_VXw7JL", "text": "Ọ dịrị isi mma ọ dịrị agụba" },
+  {
+    "id": "-MYaMmkjLz4GqUToxesi",
     "text": "Asawa ikpere ụkwụ ka osi eji nji mmiri na ncha dị na ụlọ ga agwụ o"
   },
-  { "text": "Ebutere dike oguna ụlọ ma ọlụghị, ọ bụrụ ụjọ" },
   {
+    "id": "-MYaMmkjLz4GqUToxesj",
+    "text": "Ebutere dike oguna ụlọ ma ọlụghị, ọ bụrụ ụjọ"
+  },
+  {
+    "id": "-MYaMmkkt7kbvBG2L4Zs",
     "text": "Ọkụkọ sịrị na ndị mmadụ kpọrọ ya asị, mere na ha hapụrụ akpana ya jee na ego ogiri na ahia"
   },
-  { "text": "Ihe ana ahụghị na afọ nne ewi ekwesịghị ka ahụ ya na nke nwa ya" },
-  { "text": "Egbe igwe gbakaria otu ebe, ọ dị ka ezitere ya ezite" },
   {
+    "id": "-MYaMmkkt7kbvBG2L4Zt",
+    "text": "Ihe ana ahụghị na afọ nne ewi ekwesịghị ka ahụ ya na nke nwa ya"
+  },
+  {
+    "id": "-MYaMmkl96xcMbPaeVCK",
+    "text": "Egbe igwe gbakaria otu ebe, ọ dị ka ezitere ya ezite"
+  },
+  {
+    "id": "-MYaMmkmNaJDUTQyuRTd",
     "text": "Ọ bụrụ na onye isi asiwa gị na ọ ga akụwa gị isi I mara na o nwere okwute ọ zọdere ụkwụ"
   },
-  { "text": "Onye oké tàrà arụ, gaa ya mbọ, ọ na echekwa ka ọ maa ya ụra" },
-  { "text": "Emee elu mee ala, mbỌ tỌrỌ eze" },
-  { "text": "Kam jee kam pụta na ama ọkwa nri" },
-  { "text": "Ọkụkọ maara ka ike ya ha, ọsị sị kee ya ụdọ na ụkwụ" },
-  { "text": "Nwata kpata akụ, okenye agagbuo onwe ya na ozi" },
   {
+    "id": "-MYaMmkmNaJDUTQyuRTe",
+    "text": "Onye oké tàrà arụ, gaa ya mbọ, ọ na echekwa ka ọ maa ya ụra"
+  },
+  { "id": "-MYaMmkn-l84yg2A65CO", "text": "Emee elu mee ala, mbỌ tỌrỌ eze" },
+  { "id": "-MYaMmkotslEcKzOJLmN", "text": "Kam jee kam pụta na ama ọkwa nri" },
+  {
+    "id": "-MYaMmkotslEcKzOJLmO",
+    "text": "Ọkụkọ maara ka ike ya ha, ọsị sị kee ya ụdọ na ụkwụ"
+  },
+  {
+    "id": "-MYaMmkpHpK3gw_h-pvb",
+    "text": "Nwata kpata akụ, okenye agagbuo onwe ya na ozi"
+  },
+  {
+    "id": "-MYaMmkpHpK3gw_h-pvc",
     "text": "Onye ajọ chi ka ahụhụ febara na imi. Ọ chọọ izipu ya nwee zipu mkpụrụ anya ya. Ọ chọọ ịtụtụ mkpụrụ anya ya nwee sojie aka na ala"
   },
   {
+    "id": "-MYaMmkpHpK3gw_h-pvd",
     "text": "Onye agwara bia buru ozu, ọsị na ya ebutubeghi ya mbụ. Ọ ga eji onye dị ndụ nwere mụọ"
   },
   {
+    "id": "-MYaMmkq2dmKKdNa1b9V",
     "text": "Ọyịm agwaram gị agwa bụ ezigbo ọyị. Akaaram agwa gị agwa bụ ajọ ọyị"
   },
   {
+    "id": "-MYaMmkq2dmKKdNa1b9W",
     "text": "Ejikwana maka ihe ọjọọ nwa mkpi mere gaa zọjie nwa agbọghọ ewu ụkwụ"
   },
-  { "text": "Nwata jide ọkụ jide mma, ma ọkụ ereghị ya, mma eyie ya" },
-  { "text": "Ọhụrụ nnukwu osimiri hapụ iti mkpu, ọ dị na azụ ụlọ nna ya" },
   {
+    "id": "-MYaMmkrp7_MystOqW-3",
+    "text": "Nwata jide ọkụ jide mma, ma ọkụ ereghị ya, mma eyie ya"
+  },
+  {
+    "id": "-MYaMmkrp7_MystOqW-4",
+    "text": "Ọhụrụ nnukwu osimiri hapụ iti mkpu, ọ dị na azụ ụlọ nna ya"
+  },
+  {
+    "id": "-MYaMmksjgFr5MvqCAIB",
     "text": "Awọ sịrị na ya nụrụ na onye na abịa be ya maara agbá mgba ofụma, o nwee makpuru ala chere ya"
   },
-  { "text": "Ajọ nwanyị wèré ego ya zụta nri, agbataobi anụ olu ya" },
   {
+    "id": "-MYaMmksjgFr5MvqCAIC",
+    "text": "Ajọ nwanyị wèré ego ya zụta nri, agbataobi anụ olu ya"
+  },
+  {
+    "id": "-MYaMmktGLwQ-AplWGYl",
     "text": "Nkịta sịrị nọọ mgbe ya na chi ya na akpa ihe dịịrị ha echee na ya nọ na ụra"
   },
-  { "text": "Onye kwụrụ ọtọ emegharịgị ahụ, ngwere arịgoro ya elu" },
-  { "text": "Ọbụ ike na ume ka eji afụ opi" },
-  { "text": "Onye chaa ka ose, ya fụkwaa ka ose" },
-  { "text": "Ọkụkọ nwa ogbenye bụ ehi ya" },
-  { "text": "Ọ bụ mmiri na enyere ncha aka ka o nwee gbaa ụfụfụ" },
-  { "text": "Ịchọrọdị ịma mana onye nụrụ ụzụ akwa ya na eti" },
-  { "text": "Ejerem be mmụọ gụta ọkụ pụta na mmadụ ọ nyụnahụ m" },
-  { "text": "Onye akpana agụ aka na ọdụ ma ọ dị ndụ ma ọ nwụrụ anwụ" },
-  { "text": "Nsị agbaghị aka akpá ala ịhụ, ma ojighi ahụ, o jide maamịrị" },
-  { "text": "Ejighi ugegbe ele ihe agba na aka" },
-  { "text": "Ọgbaa ọsọ anaghị agbadebe ruo mgbe ihe na achụ ya chụdebere ya" },
   {
+    "id": "-MYaMmktGLwQ-AplWGYm",
+    "text": "Onye kwụrụ ọtọ emegharịgị ahụ, ngwere arịgoro ya elu"
+  },
+  { "id": "-MYaMmkv_78odrWXLpUz", "text": "Ọbụ ike na ume ka eji afụ opi" },
+  {
+    "id": "-MYaMml2J-q0-FrF67Pn",
+    "text": "Onye chaa ka ose, ya fụkwaa ka ose"
+  },
+  { "id": "-MYaMml4OHrOA3uvykMd", "text": "Ọkụkọ nwa ogbenye bụ ehi ya" },
+  {
+    "id": "-MYaMml4OHrOA3uvykMe",
+    "text": "Ọ bụ mmiri na enyere ncha aka ka o nwee gbaa ụfụfụ"
+  },
+  {
+    "id": "-MYaMml5-RbBrVFdQHGK",
+    "text": "Ịchọrọdị ịma mana onye nụrụ ụzụ akwa ya na eti"
+  },
+  {
+    "id": "-MYaMml5-RbBrVFdQHGL",
+    "text": "Ejerem be mmụọ gụta ọkụ pụta na mmadụ ọ nyụnahụ m"
+  },
+  {
+    "id": "-MYaMml5-RbBrVFdQHGM",
+    "text": "Onye akpana agụ aka na ọdụ ma ọ dị ndụ ma ọ nwụrụ anwụ"
+  },
+  {
+    "id": "-MYaMml6r8giVT8jydNR",
+    "text": "Nsị agbaghị aka akpá ala ịhụ, ma ojighi ahụ, o jide maamịrị"
+  },
+  { "id": "-MYaMml6r8giVT8jydNS", "text": "Ejighi ugegbe ele ihe agba na aka" },
+  {
+    "id": "-MYaMml6r8giVT8jydNT",
+    "text": "Ọgbaa ọsọ anaghị agbadebe ruo mgbe ihe na achụ ya chụdebere ya"
+  },
+  {
+    "id": "-MYaMml7wUYRsR3kqlva",
     "text": "Nwa nnụnụ na agba egwu na ezi, nwere ihe na akụrụ ya egwu na ime ọhịa"
   },
   {
+    "id": "-MYaMml7wUYRsR3kqlvb",
     "text": "Asị onye oshi jide ọkụkọ, ọsị na ọna atụ ya egwu. Atụgharia ọ kpụrụ ehi"
   },
-  { "text": "Onye buru chi ya ụzọ, ọ gbagbuo onwe ya na ọsọ" },
-  { "text": "Anaghị asị ozu laa na akwa adịghị" },
-  { "text": "Ọkpụkpụ na enweghị nkịta ata ka ọkụkọ sịrị sị wete ka ya walee" },
-  { "text": "Ọ bụ oke nọ na ụlọ gwara oke nọ na ọhịa na azụ dị na ngịga" },
-  { "text": "Ụdara bụ nke enwe. Anụ ndị ọzọ bịara nché" },
-  { "text": "Ụsụ hụrụ ka eji mbazụ eli ibe ya, marakwa nọọ nka ụbọchị nke ya" },
   {
+    "id": "-MYaMml7wUYRsR3kqlvc",
+    "text": "Onye buru chi ya ụzọ, ọ gbagbuo onwe ya na ọsọ"
+  },
+  { "id": "-MYaMml8QvcjtY5XuphX", "text": "Anaghị asị ozu laa na akwa adịghị" },
+  {
+    "id": "-MYaMml8QvcjtY5XuphY",
+    "text": "Ọkpụkpụ na enweghị nkịta ata ka ọkụkọ sịrị sị wete ka ya walee"
+  },
+  {
+    "id": "-MYaMml8QvcjtY5XuphZ",
+    "text": "Ọ bụ oke nọ na ụlọ gwara oke nọ na ọhịa na azụ dị na ngịga"
+  },
+  {
+    "id": "-MYaMml9IIT15uyOU4Ad",
+    "text": "Ụdara bụ nke enwe. Anụ ndị ọzọ bịara nché"
+  },
+  {
+    "id": "-MYaMml9IIT15uyOU4Ae",
+    "text": "Ụsụ hụrụ ka eji mbazụ eli ibe ya, marakwa nọọ nka ụbọchị nke ya"
+  },
+  {
+    "id": "-MYaMml9IIT15uyOU4Af",
     "text": "Onye ara sịrị na ọbughi ara ya na agba na ewute ya, kama na ọbụ ngaharị di na ya"
   },
-  { "text": "Ọkụkọ anaghị echefu onye foro ya ọdụ na ụdụmmiri" },
   {
+    "id": "-MYaMml9IIT15uyOU4Ag",
+    "text": "Ọkụkọ anaghị echefu onye foro ya ọdụ na ụdụmmiri"
+  },
+  {
+    "id": "-MYaMmlBfpY5kKUiWbzm",
     "text": "Onye mụ na ya na achụ anụ tụgharịrị si na ụkwụ mụ dịzịkwa ka nke anụ"
   },
-  { "text": "Oji enyi nwee kwee ọya kedụzị anụ ọzọ ọ chọrọ ịmata" },
-  { "text": "Ọbụ ụkwụ a ka nnama ga eji ruo Umuahia" },
-  { "text": "O nweghị ihe mgbawa mere ike, ọbụ mma ka achọrọ ya" },
   {
+    "id": "-MYaMmlBfpY5kKUiWbzn",
+    "text": "Oji enyi nwee kwee ọya kedụzị anụ ọzọ ọ chọrọ ịmata"
+  },
+  {
+    "id": "-MYaMmlCl0xfKKMqn_dO",
+    "text": "Ọbụ ụkwụ a ka nnama ga eji ruo Umuahia"
+  },
+  {
+    "id": "-MYaMmlCl0xfKKMqn_dP",
+    "text": "O nweghị ihe mgbawa mere ike, ọbụ mma ka achọrọ ya"
+  },
+  {
+    "id": "-MYaMmlDfyjt1WxGNgXk",
     "text": "Nkakwụ na ezo ezo ka udene hapụ ibu ya. Mana udene o kwerela na ọ ga ebu nkakwụ?"
   },
-  { "text": "Anaghị asị onye bu ozu lọta nnọọ, kama na arụ mere" },
-  { "text": "Nwata tụọ ilu nna ya tụrụ, ya kwụkwaa ụgwọ nna ya ji" },
   {
+    "id": "-MYaMmlEIpSH5cMwAe5t",
+    "text": "Anaghị asị onye bu ozu lọta nnọọ, kama na arụ mere"
+  },
+  {
+    "id": "-MYaMmlEIpSH5cMwAe5u",
+    "text": "Nwata tụọ ilu nna ya tụrụ, ya kwụkwaa ụgwọ nna ya ji"
+  },
+  {
+    "id": "-MYaMmlEIpSH5cMwAe5v",
     "text": "Nwata na amaghị mgbe isi na akụ ala, ya lekwaa ka àlà na eme mgbawa"
   },
-  { "text": "Ofu onye nwe okeọkpa aaaamana ọha nwe olu ya" },
-  { "text": "Azụọrọ nwata egbe ọhụụ, ọ dị ya ka ya zute ndị mmụọ na ụzọ" },
-  { "text": "Mgwere niile makpuru amakpu, onweghi onye ma nke afo na-aru" },
-  { "text": "Agwọ niile dị ogologo mana e nwere eke nwe ọhịa" },
-  { "text": "Agwọ aghaghi imu ihe toro ogologo" },
-  { "text": "Agwọ ofu onye huru na aghoro ya eke" },
-  { "text": "Ewu mmadụ abụọ na enye nri na anwụ na agụụ" },
   {
+    "id": "-MYaMmlF-HvwEfleYrMQ",
+    "text": "Ofu onye nwe okeọkpa aaaamana ọha nwe olu ya"
+  },
+  {
+    "id": "-MYaMmlF-HvwEfleYrMR",
+    "text": "Azụọrọ nwata egbe ọhụụ, ọ dị ya ka ya zute ndị mmụọ na ụzọ"
+  },
+  {
+    "id": "-MYaMmlGtj14_hSGqePN",
+    "text": "Mgwere niile makpuru amakpu, onweghi onye ma nke afo na-aru"
+  },
+  {
+    "id": "-MYaMmlGtj14_hSGqePO",
+    "text": "Agwọ niile dị ogologo mana e nwere eke nwe ọhịa"
+  },
+  { "id": "-MYaMmlGtj14_hSGqePP", "text": "Agwọ aghaghi imu ihe toro ogologo" },
+  {
+    "id": "-MYaMmlGtj14_hSGqePQ",
+    "text": "Agwọ ofu onye huru na aghoro ya eke"
+  },
+  {
+    "id": "-MYaMmlHaHSjFQuPPRDM",
+    "text": "Ewu mmadụ abụọ na enye nri na anwụ na agụụ"
+  },
+  {
+    "id": "-MYaMmlHaHSjFQuPPRDN",
     "text": "Ọ bụrụ ọnụ ka eji aba ọgaranya ịmara na onye ara ga kachasị ụmụ nna ya"
   },
-  { "text": "Eze nchi fọgodi ofu, ọ ka ga na egwu achara" },
-  { "text": "Ọbụ sọ onye kọrọ ji na egwute ebe" },
   {
+    "id": "-MYaMmlIQ3cWZcDUtLon",
+    "text": "Eze nchi fọgodi ofu, ọ ka ga na egwu achara"
+  },
+  { "id": "-MYaMmlIQ3cWZcDUtLoo", "text": "Ọbụ sọ onye kọrọ ji na egwute ebe" },
+  {
+    "id": "-MYaMmlKlGdUzu2ZvNZn",
     "text": "Ọkụkọ sịrị na ya maara akpata ejuna, mana ya ahụghịzị onye ga ejidere ya nkata"
   },
-  { "text": "Nwata ya na okenye na eso, ma otaghị ose, ọ taa ọjị" },
-  { "text": "Anya mmiri na agba na ọwa ya" },
-  { "text": "Ọbụ ofu alahaji ka anyị na achụrụ ehi" },
-  { "text": "Ihe nwata ruru ogo ya abụghị ụsa" },
-  { "text": "Ike adịghị ọkwụrụ gbaa mgbọrọgwụ, ọdị na àlà esika ike" },
   {
+    "id": "-MYaMmlKlGdUzu2ZvNZo",
+    "text": "Nwata ya na okenye na eso, ma otaghị ose, ọ taa ọjị"
+  },
+  { "id": "-MYaMmlLwhMdwkrBd5UA", "text": "Anya mmiri na agba na ọwa ya" },
+  {
+    "id": "-MYaMmlMd6r90qGNuSpY",
+    "text": "Ọbụ ofu alahaji ka anyị na achụrụ ehi"
+  },
+  { "id": "-MYaMmlMd6r90qGNuSpZ", "text": "Ihe nwata ruru ogo ya abụghị ụsa" },
+  {
+    "id": "-MYaMmlNCpKn43mRqChV",
+    "text": "Ike adịghị ọkwụrụ gbaa mgbọrọgwụ, ọdị na àlà esika ike"
+  },
+  {
+    "id": "-MYaMmlNCpKn43mRqChW",
     "text": "Mmụọ jere .... ka asịrị na ọga ejekwa ọzọ, ọsị ka ọ nagodi nke o jere eje"
   },
   {
+    "id": "-MYaMmlNCpKn43mRqChX",
     "text": "Ọbụ ihea ka Ogidi ga emechaa nwee mee nwafor (not sure I wrote this right)"
   },
-  { "text": "Chi jiri eji ga eforiri efo" },
-  { "text": "Nsị adịghị na afọ ajọ njọ" },
-  { "text": "Nwere ire gị gụọ eze gị ọnụ" },
-  { "text": "Na obodo ndị isi onye ofu anya bụ eze" },
-  { "text": "Nshikọ na echi eze na obere mmiri" },
-  { "text": "Emee nwata ka emere ibe ya, obi adị ya mma" },
-  { "text": "Emegbuna Okeke ka I nwere meta Okafor mma" },
-  { "text": "Ihe eji maa atụ agwọ, ya na agwọ anaghị ahacha" },
-  { "text": "Ebe ọkụ nyụrụ awụsa ọwa" },
-  { "text": "Ebe onye dara ka chi ya kwaturu ya" },
-  { "text": "Kama okwu m kwuru na ọnụ m ga ekote m ịsị, m sị na mụ ekwughịzị" },
-  { "text": "Ibuo mmiri buo mmanya, ịmara nke ka dị arụ" },
-  { "text": "Anaghị ere ọkụkọ ụkwụ jiri na ụlọ" },
-  { "text": "Ahụchabeghị ndị kwụ ọtọ, ọfọzie ndị nọ ala" },
-  { "text": "Agha rie akụ ma ndụ dị" },
-  { "text": "Gbanarị ajọ mmadụ, gbakwuru ajọ mmụọ" },
-  { "text": "Agwọ na ihe o loro atọgbọrọla" },
-  { "text": "Ihe a abụghị ọkụ agba ngada nwere aya" },
-  { "text": "Akwụ na akị bụkwanụ nwanne" },
-  { "text": "Nwata kwọchaa aka o soro ọgaranya rie ihe" },
-  { "text": "M ga anọrọ bem nọpịa mkpụrụ amụ" },
-  { "text": "Mmakwaara na ekpe azụ" },
-  { "text": "Onye ajụrụ ajụ anaghị ajụ onwe ya" },
-  { "text": "Ewu dinara na ala, dinara na akpụkpa ya" },
-  { "text": "I kpara akwụ kpara akwụ onye nwe akwụ eburukwa akwụ ya" },
-  { "text": "Ogbu mma ga ala na mma" },
-  { "text": "E nwere ebe ụwa tọọrọ ute" },
-  { "text": "Akụ fechaa ọ daara awọ" },
-  { "text": "Ọkụkọ ntị ike na anụ ihe na ite ofe" },
-  { "text": "Ijiji na enweghi onye ndumodu na-eso ozu ala n'ili" },
-  { "text": "Agwa ntị ma ọ nụghị, egburu isi, ntị esoro ya" },
-  { "text": "Obere nwa na amụ iri elu, obi sikwaa ya ike" },
-  { "text": "Ọna abụ ayụwa nsị, achịwa ọchị" },
-  { "text": "Kwọọ mmiri mgbe ọ ka nọ na ọba ụkwụ" },
-  { "text": "Sị hapụ ihe niile tara na abalị ka ọ bụrụ anwụnta" },
-  { "text": "Nwata bịara iku nwa, ọ bụrụ na nwa ọ bịara iku anwụọ, ọ lawanụ" },
-  { "text": "Otu ọbụla ọ masịrị mmiri ya zoo, emechaa ọ ga agbachakwa" },
-  { "text": "Ịbụ ọnọnụlọ mara ihe zụrụ na ahịa" },
-  { "text": "Wepụ aka enwe na ofe tupu ọ ghọọ aka mmadụ" },
-  { "text": "Ọbụ nwa mgbeke amaghị akpụ ịsị, ka ọbụna agụba adịghị nkọ" },
-  { "text": "Ọchụụ nwa ọkụkọ nwe ada. Nwa ọkụkọ nwe nwonwo ọsọ" },
+  { "id": "-MYaMmlOGwU-It-B8zvQ", "text": "Chi jiri eji ga eforiri efo" },
+  { "id": "-MYaMmlOGwU-It-B8zvR", "text": "Nsị adịghị na afọ ajọ njọ" },
+  { "id": "-MYaMmlPrr2NhAkzeadO", "text": "Nwere ire gị gụọ eze gị ọnụ" },
   {
+    "id": "-MYaMmlPrr2NhAkzeadP",
+    "text": "Na obodo ndị isi onye ofu anya bụ eze"
+  },
+  { "id": "-MYaMmlQs0YGSmcdFi-x", "text": "Nshikọ na echi eze na obere mmiri" },
+  {
+    "id": "-MYaMmlQs0YGSmcdFi-y",
+    "text": "Emee nwata ka emere ibe ya, obi adị ya mma"
+  },
+  {
+    "id": "-MYaMmlRelgyjN7VqNeh",
+    "text": "Emegbuna Okeke ka I nwere meta Okafor mma"
+  },
+  {
+    "id": "-MYaMmlRelgyjN7VqNei",
+    "text": "Ihe eji maa atụ agwọ, ya na agwọ anaghị ahacha"
+  },
+  { "id": "-MYaMmlSaVudLo-Q65cS", "text": "Ebe ọkụ nyụrụ awụsa ọwa" },
+  {
+    "id": "-MYaMmlSaVudLo-Q65cT",
+    "text": "Ebe onye dara ka chi ya kwaturu ya"
+  },
+  {
+    "id": "-MYaMmlSaVudLo-Q65cU",
+    "text": "Kama okwu m kwuru na ọnụ m ga ekote m ịsị, m sị na mụ ekwughịzị"
+  },
+  {
+    "id": "-MYaMmlT2-rJn-JrA27c",
+    "text": "Ibuo mmiri buo mmanya, ịmara nke ka dị arụ"
+  },
+  { "id": "-MYaMmlT2-rJn-JrA27d", "text": "Anaghị ere ọkụkọ ụkwụ jiri na ụlọ" },
+  {
+    "id": "-MYaMmlUH3HSY2kDkBs2",
+    "text": "Ahụchabeghị ndị kwụ ọtọ, ọfọzie ndị nọ ala"
+  },
+  { "id": "-MYaMmlUH3HSY2kDkBs3", "text": "Agha rie akụ ma ndụ dị" },
+  {
+    "id": "-MYaMmlVwX4DwAFP_lWu",
+    "text": "Gbanarị ajọ mmadụ, gbakwuru ajọ mmụọ"
+  },
+  { "id": "-MYaMmlX_fUoY_s0PFcw", "text": "Agwọ na ihe o loro atọgbọrọla" },
+  {
+    "id": "-MYaMmlYSrwaVa_mT-Oh",
+    "text": "Ihe a abụghị ọkụ agba ngada nwere aya"
+  },
+  { "id": "-MYaMmlYSrwaVa_mT-Oi", "text": "Akwụ na akị bụkwanụ nwanne" },
+  {
+    "id": "-MYaMmlYSrwaVa_mT-Oj",
+    "text": "Nwata kwọchaa aka o soro ọgaranya rie ihe"
+  },
+  { "id": "-MYaMmlZJjzmJus6H_wk", "text": "M ga anọrọ bem nọpịa mkpụrụ amụ" },
+  { "id": "-MYaMml_UDCLOLqCIHKr", "text": "Mmakwaara na ekpe azụ" },
+  { "id": "-MYaMml_UDCLOLqCIHKs", "text": "Onye ajụrụ ajụ anaghị ajụ onwe ya" },
+  {
+    "id": "-MYaMml_UDCLOLqCIHKt",
+    "text": "Ewu dinara na ala, dinara na akpụkpa ya"
+  },
+  {
+    "id": "-MYaMmlaX1NU9fOm-Hbz",
+    "text": "I kpara akwụ kpara akwụ onye nwe akwụ eburukwa akwụ ya"
+  },
+  { "id": "-MYaMmlbkVOaoT2i86ut", "text": "Ogbu mma ga ala na mma" },
+  { "id": "-MYaMmlbkVOaoT2i86uu", "text": "E nwere ebe ụwa tọọrọ ute" },
+  { "id": "-MYaMmlc7v4V-oBaGSlU", "text": "Akụ fechaa ọ daara awọ" },
+  {
+    "id": "-MYaMmlc7v4V-oBaGSlV",
+    "text": "Ọkụkọ ntị ike na anụ ihe na ite ofe"
+  },
+  {
+    "id": "-MYaMmld0uVEIwcwRlm0",
+    "text": "Ijiji na enweghi onye ndumodu na-eso ozu ala n'ili"
+  },
+  {
+    "id": "-MYaMmld0uVEIwcwRlm1",
+    "text": "Agwa ntị ma ọ nụghị, egburu isi, ntị esoro ya"
+  },
+  {
+    "id": "-MYaMmld0uVEIwcwRlm2",
+    "text": "Obere nwa na amụ iri elu, obi sikwaa ya ike"
+  },
+  { "id": "-MYaMmlekEdKSSPsFjOJ", "text": "Ọna abụ ayụwa nsị, achịwa ọchị" },
+  {
+    "id": "-MYaMmlekEdKSSPsFjOK",
+    "text": "Kwọọ mmiri mgbe ọ ka nọ na ọba ụkwụ"
+  },
+  {
+    "id": "-MYaMmlekEdKSSPsFjOL",
+    "text": "Sị hapụ ihe niile tara na abalị ka ọ bụrụ anwụnta"
+  },
+  {
+    "id": "-MYaMmlekEdKSSPsFjOM",
+    "text": "Nwata bịara iku nwa, ọ bụrụ na nwa ọ bịara iku anwụọ, ọ lawanụ"
+  },
+  {
+    "id": "-MYaMmlfzx-vn7lWX7F1",
+    "text": "Otu ọbụla ọ masịrị mmiri ya zoo, emechaa ọ ga agbachakwa"
+  },
+  { "id": "-MYaMmlfzx-vn7lWX7F2", "text": "Ịbụ ọnọnụlọ mara ihe zụrụ na ahịa" },
+  {
+    "id": "-MYaMmlfzx-vn7lWX7F3",
+    "text": "Wepụ aka enwe na ofe tupu ọ ghọọ aka mmadụ"
+  },
+  {
+    "id": "-MYaMmlfzx-vn7lWX7F4",
+    "text": "Ọbụ nwa mgbeke amaghị akpụ ịsị, ka ọbụna agụba adịghị nkọ"
+  },
+  {
+    "id": "-MYaMmlgUctxpUjRV1kR",
+    "text": "Ọchụụ nwa ọkụkọ nwe ada. Nwa ọkụkọ nwe nwonwo ọsọ"
+  },
+  {
+    "id": "-MYaMmlgUctxpUjRV1kS",
     "text": "Oji ihe nwata nwelie aka ya elu. Aka jiwe ya o nwetuo ya. Nwata enwerekwa ya"
   },
-  { "text": "Umunna nwezuo aku ihe adi mma" },
-  { "text": "mmiri mara ugo asaala ya ahu" },
-  { "text": "Eriri maara ngwugwu, ngwugwu maara onye kere ya" },
-  { "text": "Oji onye n'ala ji onwe ya" },
-  { "text": "Choo ewu ojii mgbe chi ka di" },
-  { "text": "Ayukoo maamiri onu, o gbaa ufufu" },
-  { "text": "Ukwu jie agu, mgbada abiara ya ugwo" },
-  { "text": "Obu aka mere azu mgbako" },
-  { "text": "Onye na ejighi ego ona eshi ofe Owere?" },
-  { "text": "Anaghi agba aka, ahu nwata eze" },
-  { "text": "Ookwa onye meruo ala, ala achuwa ya oso" },
-  { "text": "Ọkụkọ nyuo ahu, ala achuwa ya oso. " },
-  { "text": "Egbe bere, ugo bere, nke siri ibe ya ebena, nku kwaa ya" },
-  { "text": "Aka nri kwoo aka ekpe, aka ekpe akwoo aka nri" },
-  { "text": "Mkpa ka mkpa siwe ite, mkpa ka mkpa afotuo ya" },
-  { "text": "Egbuo dike na ogu ulo, eruo na ogu ezi achowa dike" },
+  { "id": "-MYaMmlgUctxpUjRV1kT", "text": "Umunna nwezuo aku ihe adi mma" },
+  { "id": "-MYaMmlhzNIiz-4aUWYN", "text": "mmiri mara ugo asaala ya ahu" },
   {
+    "id": "-MYaMmlhzNIiz-4aUWYO",
+    "text": "Eriri maara ngwugwu, ngwugwu maara onye kere ya"
+  },
+  { "id": "-MYaMmliBlQepasjINpe", "text": "Oji onye n'ala ji onwe ya" },
+  { "id": "-MYaMmliBlQepasjINpf", "text": "Choo ewu ojii mgbe chi ka di" },
+  { "id": "-MYaMmljVmqji64TH_VO", "text": "Ayukoo maamiri onu, o gbaa ufufu" },
+  {
+    "id": "-MYaMmljVmqji64TH_VP",
+    "text": "Ukwu jie agu, mgbada abiara ya ugwo"
+  },
+  { "id": "-MYaMmlk8Fg8HWI_HLCx", "text": "Obu aka mere azu mgbako" },
+  {
+    "id": "-MYaMmlk8Fg8HWI_HLCy",
+    "text": "Onye na ejighi ego ona eshi ofe Owere?"
+  },
+  { "id": "-MYaMmlk8Fg8HWI_HLCz", "text": "Anaghi agba aka, ahu nwata eze" },
+  {
+    "id": "-MYaMmllSoUjcjCgk9N8",
+    "text": "Ookwa onye meruo ala, ala achuwa ya oso"
+  },
+  {
+    "id": "-MYaMmllSoUjcjCgk9N9",
+    "text": "Ọkụkọ nyuo ahu, ala achuwa ya oso. "
+  },
+  {
+    "id": "-MYaMmllSoUjcjCgk9NA",
+    "text": "Egbe bere, ugo bere, nke siri ibe ya ebena, nku kwaa ya"
+  },
+  {
+    "id": "-MYaMmlmv4klUHYHeD4q",
+    "text": "Aka nri kwoo aka ekpe, aka ekpe akwoo aka nri"
+  },
+  {
+    "id": "-MYaMmlmv4klUHYHeD4r",
+    "text": "Mkpa ka mkpa siwe ite, mkpa ka mkpa afotuo ya"
+  },
+  {
+    "id": "-MYaMmln3T0QEn-mF6OM",
+    "text": "Egbuo dike na ogu ulo, eruo na ogu ezi achowa dike"
+  },
+  {
+    "id": "-MYaMmln3T0QEn-mF6ON",
     "text": "eme elu mee ala, mbo toro eze (come rain come shine nails senior teeth)"
   },
-  { "text": "gini ka nsi na-acho n'agba" },
-  { "text": "nwata ona egosi nna ya oke ala?" },
-  { "text": "nwata ona ebu nna ya uzo amuta di okpara?" },
+  { "id": "-MYaMmlo0h97Yt3Zp8e-", "text": "gini ka nsi na-acho n'agba" },
+  { "id": "-MYaMmlo0h97Yt3Zp8e0", "text": "nwata ona egosi nna ya oke ala?" },
   {
+    "id": "-MYaMmlp0I_3pwGHJjpI",
+    "text": "nwata ona ebu nna ya uzo amuta di okpara?"
+  },
+  {
+    "id": "-MYaMmlp0I_3pwGHJjpJ",
     "text": "Okuko siri na kama ya ama nchota ihe ona acho na isiakwu kama ka ogwu dupia ya  anya"
   },
   {
+    "id": "-MYaMmlp0I_3pwGHJjpK",
     "text": "Egbe siri na ihe o soro uzo tewe aka ihe ya ma ka o buru nwa okuko lota"
   },
-  { "text": "Ogu nduru anaghi apu mmee" },
+  { "id": "-MYaMmlq1N2xaOQNrOun", "text": "Ogu nduru anaghi apu mmee" },
   {
+    "id": "-MYaMmlq1N2xaOQNrOuo",
     "text": "Ejuna siri na ndi mmadu na-eche na ya akaghi ahu, mana emee ha si n'azu bia na ejide ya, o nweghi onye egwu na ekwe si n'ihu bia jide ya"
   },
   {
+    "id": "-MYaMmlrzbv6RQzH1Jte",
     "text": "Onye atu gburu nna ya anaghi eji mpi atu anu nkwu. (Atu is buffalo)"
   },
   {
+    "id": "-MYaMmlrzbv6RQzH1Jtf",
     "text": "Ogwumagana siri na ya agaghi eji maka na oku na agba ozara wee hapu ije ogaranya nna ya kuziri ya"
   },
-  { "text": "onye na akpu ite adighi mma izu ejuna na ahia" },
   {
+    "id": "-MYaMmlsmzJ4dZkUjtkL",
+    "text": "onye na akpu ite adighi mma izu ejuna na ahia"
+  },
+  {
+    "id": "-MYaMmlsmzJ4dZkUjtkM",
     "text": "ori ihe guru ya ji akwa okuko nwee gbaworo ehi. Mgbe umunna ya tawara ya uta, o siri na o bu ihe guru ya ka o riri"
   },
-  { "text": "sooso èdè ka aroro aro o di mma" },
-  { "text": "erisia nri akpogho utaba odi ka eji iwe nwee ri" },
-  { "text": "mgbada taa nri o gbaa oso n'ugwu" },
-  { "text": "ikpe mara eziokwu aka azụ dị na ya" },
+  { "id": "-MYaMmltNLJZSGLA4WMY", "text": "sooso èdè ka aroro aro o di mma" },
   {
+    "id": "-MYaMmltNLJZSGLA4WMZ",
+    "text": "erisia nri akpogho utaba odi ka eji iwe nwee ri"
+  },
+  { "id": "-MYaMmltNLJZSGLA4WM_", "text": "mgbada taa nri o gbaa oso n'ugwu" },
+  {
+    "id": "-MYaMmlu4xhlPw9Rq90a",
+    "text": "ikpe mara eziokwu aka azụ dị na ya"
+  },
+  {
+    "id": "-MYaMmlu4xhlPw9Rq90b",
     "text": "agbisi gbaa otule, otule amụrụ akọ -- interesting how this proverb has a double meaning: the obvious and the hidden. Akọ means wise but kọ is also the root word for ịkọ (to itch/scratch). The proverb means \"Experience is the best teacher\" on the one hand, and also \"na condition make crayfish bend\" on the other hand. Like it is the bite of the ant that made the buttocks learn how to itch."
   },
   {
+    "id": "-MYaMmlvDutU73_1XkRv",
     "text": "aga eri ọna mana chi ga efo (people don't rush to do unpleasant things)"
   },
-  { "text": "ndu dị na ntị (there's life in hearing)" },
-  { "text": "kama ehim ga agbanarim,  m gbubiri ya ọdụdụ" },
   {
+    "id": "-MYaMmlwUyNstg5BuoZ-",
+    "text": "ndu dị na ntị (there's life in hearing)"
+  },
+  {
+    "id": "-MYaMmlxWk9qEQJ0eMbE",
+    "text": "kama ehim ga agbanarim,  m gbubiri ya ọdụdụ"
+  },
+  {
+    "id": "-MYaMmlyrkdRB-k1MH-O",
     "text": "ebe nwata kotere ejuna ona agafe ebe ahu anya ga adi ya nko (sideways . towards the place. o nwere ike oburuzie agwu maobi akpi nozie ebe ahu)"
   },
-  { "text": "Ugbabe tubalu udene, udene elibe. (ilu ndi enugwu ezike)" },
-  { "text": "Nwaanyị makarịa di ya n'uzọ, ihe chere di ya, ewere ya" },
   {
+    "id": "-MYaMmlz8pqI0RULKFkf",
+    "text": "Ugbabe tubalu udene, udene elibe. (ilu ndi enugwu ezike)"
+  },
+  {
+    "id": "-MYaMmm-j2O0qAwFrhR8",
+    "text": "Nwaanyị makarịa di ya n'uzọ, ihe chere di ya, ewere ya"
+  },
+  {
+    "id": "-MYaMmm0WlrDllF6DE9j",
     "text": "Otu onye siere igwe mmadụ nri, ọha ga-ericha nri ahụ mana igwe mmadụ siere otu onye nri, ọ gaghị erichanwu ya."
   },
-  { "text": "Otu aka rụta mmanụ, o jezuo ọha" },
-  { "text": "Onye kpatara nkụ ahụhụ si ngwere bịara ya ọrụ." },
-  { "text": "Agadị anaghị aka nka n'egwu o ma-agba" },
-  { "text": "Ikwo aka tiri ọkụkọ akị" },
-  { "text": "Onye gba bọọlụ, ọ racha oroma" },
-  { "text": "Onye buru chi ya uzo, o gbagbue onwe ya n'oso" },
+  { "id": "-MYaMmm0WlrDllF6DE9k", "text": "Otu aka rụta mmanụ, o jezuo ọha" },
   {
+    "id": "-MYaMmm1r8yZmFBOTaIH",
+    "text": "Onye kpatara nkụ ahụhụ si ngwere bịara ya ọrụ."
+  },
+  {
+    "id": "-MYaMmm1r8yZmFBOTaII",
+    "text": "Agadị anaghị aka nka n'egwu o ma-agba"
+  },
+  { "id": "-MYaMmm1r8yZmFBOTaIJ", "text": "Ikwo aka tiri ọkụkọ akị" },
+  { "id": "-MYaMmm1r8yZmFBOTaIK", "text": "Onye gba bọọlụ, ọ racha oroma" },
+  {
+    "id": "-MYaMmm3Io8iCiY-5tes",
+    "text": "Onye buru chi ya uzo, o gbagbue onwe ya n'oso"
+  },
+  {
+    "id": "-MYaMmm3Io8iCiY-5tet",
     "text": "Ọkụkọ na-edowe ahụ na ara na-ayị ya ahụbeghị nkịta mmanya na-egbu"
   },
-  { "text": "Oji onye n'ala, ji onwe ya" },
-  { "text": "Aka nri kwọọ aka ekpe, aka ekpe akwọọ aka nri" },
-  { "text": "Ogologo abụghị na nwam etola" },
-  { "text": "Agwọ emeghị nke o jiri buru agwọ, ụmụaka a chiri ya hie nkụ" },
+  { "id": "-MYaMmm3Io8iCiY-5teu", "text": "Oji onye n'ala, ji onwe ya" },
   {
+    "id": "-MYaMmm3Io8iCiY-5tev",
+    "text": "Aka nri kwọọ aka ekpe, aka ekpe akwọọ aka nri"
+  },
+  { "id": "-MYaMmm4MN6Cq_F0sbDF", "text": "Ogologo abụghị na nwam etola" },
+  {
+    "id": "-MYaMmm5uKc0T4-KvTAy",
+    "text": "Agwọ emeghị nke o jiri buru agwọ, ụmụaka a chiri ya hie nkụ"
+  },
+  {
+    "id": "-MYaMmm5uKc0T4-KvTAz",
     "text": "Ọ bụghị ụbọchi nwata kwafuru mmanu ka a na-apịa ya ụtalị, kama ụbọchị ọ kwafuru mmanụ agbịdị"
   },
-  { "text": "Ọkwụrụ anaghị akarị onye kụrụ ya" },
-  { "text": "Nwata rie ihe ọ na-amụrụ anya, ụra atụọ ya" },
-  { "text": "A naghị eji ụtụtụ ama njọ ahia" },
-  { "text": "Ọgọ bịakarịa , e zie ya kpata nkụ" },
-  { "text": "Okokporo si na ahia ekwoghi ekwo o, umu ya ha di ole n'ahia?" },
-  { "text": "Nwanyi lelie di ya, ekwu akpo ya nku" },
+  { "id": "-MYaMmm5uKc0T4-KvTB-", "text": "Ọkwụrụ anaghị akarị onye kụrụ ya" },
   {
+    "id": "-MYaMmm5uKc0T4-KvTB0",
+    "text": "Nwata rie ihe ọ na-amụrụ anya, ụra atụọ ya"
+  },
+  { "id": "-MYaMmm5uKc0T4-KvTB1", "text": "A naghị eji ụtụtụ ama njọ ahia" },
+  { "id": "-MYaMmm6lrwCXL6F8jEZ", "text": "Ọgọ bịakarịa , e zie ya kpata nkụ" },
+  {
+    "id": "-MYaMmm6lrwCXL6F8jE_",
+    "text": "Okokporo si na ahia ekwoghi ekwo o, umu ya ha di ole n'ahia?"
+  },
+  {
+    "id": "-MYaMmm6lrwCXL6F8jEa",
+    "text": "Nwanyi lelie di ya, ekwu akpo ya nku"
+  },
+  {
+    "id": "-MYaMmm7s2WtvqwKdac3",
     "text": "Nwunye awo si na di atoka uto, ya jiri nuta nke ya kworo ya n'azu"
   },
-  { "text": "Agbogho hokaria di ya aluo eke mmuo" },
-  { "text": "A hụ ihe karịrị ubi, ere ọba ji" },
-  { "text": "O re-ere bụ Eze; O zu-azụ bụ eze" },
-  { "text": "Ahịa ukwu amaghị na otu onye abiaghi" },
-  { "text": "Akwukwo juru n'ohia, ma a baa a choba okazi" },
-  { "text": "O nweghị ihe anya hụrụ gba obara" },
-  { "text": "Awọ anaghị agba ọsọ ehihie n'efu" },
-  { "text": "Otu mkpụrụ akwụ adịghị efu n'ọkụ" },
-  { "text": "A na-esi n'ulọ mara mma pụọ ama" },
   {
+    "id": "-MYaMmm7s2WtvqwKdac4",
+    "text": "Agbogho hokaria di ya aluo eke mmuo"
+  },
+  { "id": "-MYaMmm8iseicc18fQzv", "text": "A hụ ihe karịrị ubi, ere ọba ji" },
+  { "id": "-MYaMmm8iseicc18fQzw", "text": "O re-ere bụ Eze; O zu-azụ bụ eze" },
+  {
+    "id": "-MYaMmm8iseicc18fQzx",
+    "text": "Ahịa ukwu amaghị na otu onye abiaghi"
+  },
+  {
+    "id": "-MYaMmm9_aRDemM9Lioh",
+    "text": "Akwukwo juru n'ohia, ma a baa a choba okazi"
+  },
+  { "id": "-MYaMmm9_aRDemM9Lioi", "text": "O nweghị ihe anya hụrụ gba obara" },
+  { "id": "-MYaMmmADt5pRrBmKBn0", "text": "Awọ anaghị agba ọsọ ehihie n'efu" },
+  { "id": "-MYaMmmADt5pRrBmKBn1", "text": "Otu mkpụrụ akwụ adịghị efu n'ọkụ" },
+  { "id": "-MYaMmmB0PZh0Db8bP4m", "text": "A na-esi n'ulọ mara mma pụọ ama" },
+  {
+    "id": "-MYaMmmCuY-SnKufedJ2",
     "text": "Ebe a na-adụ nwa nwere nne ọdụ, ka nwa na-enweghị nne na-amụta ihe."
   },
-  { "text": "Nne ewu na-ata igụ, ụmụ ya a na-ele ya anya n'ọnụ." },
-  { "text": "Nwata na-ata akara, na-ata ego ya." },
-  { "text": "Onye njem na-aka onye isi awọ ama ihe" },
-  { "text": "Ukpana okpoko gburu bụ nti chiri ya." },
-  { "text": "Onye mara asụ, sụọ n'odo. Ma ị maghị asụ, sụo n'ala." },
   {
+    "id": "-MYaMmmCuY-SnKufedJ3",
+    "text": "Nne ewu na-ata igụ, ụmụ ya a na-ele ya anya n'ọnụ."
+  },
+  {
+    "id": "-MYaMmmDemmG0lPVHnZZ",
+    "text": "Nwata na-ata akara, na-ata ego ya."
+  },
+  {
+    "id": "-MYaMmmDemmG0lPVHnZ_",
+    "text": "Onye njem na-aka onye isi awọ ama ihe"
+  },
+  {
+    "id": "-MYaMmmDemmG0lPVHnZa",
+    "text": "Ukpana okpoko gburu bụ nti chiri ya."
+  },
+  {
+    "id": "-MYaMmmENZfNjcmJd7pC",
+    "text": "Onye mara asụ, sụọ n'odo. Ma ị maghị asụ, sụo n'ala."
+  },
+  {
+    "id": "-MYaMmmENZfNjcmJd7pD",
     "text": "Agadị wekọtacha ọkazị ma gbajie mgbọrọgwụ ya, agụ biara n'afo nke mbụ ga-abịakwa ọzọ."
   },
-  { "text": "O nweghị onye na-ajụ ofe azụ juputere na ya." },
-  { "text": "Ihe oma na anya bu nwanne" },
-  { "text": "Anaghi ahapu ebe ana echi ozo gawa ebe ana aru agwu" },
-  { "text": "Onye si na ya anaghi ata anu nkita, ya arakwala mmiri ofe ya." },
   {
+    "id": "-MYaMmmENZfNjcmJd7pE",
+    "text": "O nweghị onye na-ajụ ofe azụ juputere na ya."
+  },
+  { "id": "-MYaMmmFZKHg_j7Kbi3t", "text": "Ihe oma na anya bu nwanne" },
+  {
+    "id": "-MYaMmmFZKHg_j7Kbi3u",
+    "text": "Anaghi ahapu ebe ana echi ozo gawa ebe ana aru agwu"
+  },
+  {
+    "id": "-MYaMmmGS5IhKIvmfOW3",
+    "text": "Onye si na ya anaghi ata anu nkita, ya arakwala mmiri ofe ya."
+  },
+  {
+    "id": "-MYaMmmGS5IhKIvmfOW4",
     "text": "Okenye na anaghi anu __  ekwesighi iji eze ya ekere ya umuntakiri"
   },
-  { "text": "Ura ga-eju onye nwuru anwu afo" },
-  { "text": "Gidi gidi bụ ugwu eze" },
-  { "text": "Otu onye tuo izu, o gbue ochu" },
-  { "text": "Ihe ehi hụrụ gbalaba oso ka okuku huru na-atụ onu" },
-  { "text": "Oge adighi eche mmadu" },
-  { "text": "E lewe ukwu Egbue ewu" },
-  { "text": "Ihe di woro ogori azuala na ahia" },
-  { "text": "Ewu nwuru n'oba ji abughi agu gburu ya." },
-  { "text": "Onye ma ka mmiri si were baa n'opi ugboguru?" },
-  { "text": "A chuo aja ma a hughi udele, a mara na ihe mere be ndimmuo." },
-  { "text": "Ugo chara acha adi(ghi) echu echu" },
-  { "text": "Onye ubiam ona aza \"Omeokachie\"?" },
-  { "text": "Mbe si na oru oha di mma, mana oriri oha na-aka ahu." },
+  { "id": "-MYaMmmGS5IhKIvmfOW5", "text": "Ura ga-eju onye nwuru anwu afo" },
+  { "id": "-MYaMmmHgyn38LUdR6pT", "text": "Gidi gidi bụ ugwu eze" },
+  { "id": "-MYaMmmI9zjvIYOR54KF", "text": "Otu onye tuo izu, o gbue ochu" },
   {
-    "text": "Nwaanyi muta ite ofe mmiri mmiri, di ya amuta ipi utara aka were suru ofe."
+    "id": "-MYaMmmJOlKcwJrEMsHF",
+    "text": "Ihe ehi hụrụ gbalaba oso ka okuku huru na-atụ onu"
   },
-  { "text": "Ugwu muta igbaji ukwu, agadi nwanyi amuta arikata ezuo ike" },
+  { "id": "-MYaMmmJOlKcwJrEMsHG", "text": "Oge adighi eche mmadu" },
+  { "id": "-MYaMmmJOlKcwJrEMsHH", "text": "E lewe ukwu Egbue ewu" },
+  { "id": "-MYaMmmLA0cHTInVzHNY", "text": "Ihe di woro ogori azuala na ahia" },
   {
-    "text": "Mbe si na ihe ya ji-achiri ihe egwu ya aga njem bu maka ya ezu (meets) ndiegwu."
-  },
-  { "text": "O na-abu a si nwata wuba ahu, o saba afo ya." },
-  { "text": "Ukpana gbabara n'ikpo okuko na-ala ala mmuo." },
-  { "text": "Onye a kporo apari, o na-ehi n'amanna ya, abughi apari." },
-  { "text": "Ndi na-eje mposi abali na-ahu ukpana ndi mmuo." },
-  { "text": "Nwata bunie nna ya enu, akpaamu ya ayochie ya anya." },
-  { "text": "Onye hapu onu ya, uguru arachaa ya." },
-  {
-    "text": "Okuko si na ihe ya ji-ele anya n'enu ma ya na añu mmiri bu na ihe na-egbu si n'igwe abia."
+    "id": "-MYaMmmLA0cHTInVzHNZ",
+    "text": "Ewu nwuru n'oba ji abughi agu gburu ya."
   },
   {
-    "text": " \"Nwunye anyi, nwunye anyi\": ka ndeli bia ka anyi mara onye o bu nwunye ya."
-  },
-  { "text": "Ura towa uto, ekwowe ya ekwowe." },
-  {
-    "text": "O bialu be onye abiagbuna ya, mgbe o ga-ala mkpumkpu apukwana ya n'azu."
+    "id": "-MYaMmmLA0cHTInVzHN_",
+    "text": "Onye ma ka mmiri si were baa n'opi ugboguru?"
   },
   {
-    "text": "Nwa ovu na-eto, o di ka o ga-aka nne ya. (When the baby wren is growing, it looks like it would be bigger than its mother.)"
+    "id": "-MYaMmmMDSDRHzd2yNR-",
+    "text": "A chuo aja ma a hughi udele, a mara na ihe mere be ndimmuo."
   },
-  { "text": "Okuko na-arọgọrọ ite onu, chetekwe mma gburu ya." },
+  { "id": "-MYaMmmMDSDRHzd2yNR0", "text": "Ugo chara acha adi(ghi) echu echu" },
   {
-    "text": "Ihe ka-nte bata n'onu nte, nte etefu. (When something greater than the pigmy cricket enters its hole, it takes off.)"
-  },
-  { "text": "Uzu na-amaghi akpu ogene lee egbe anya n'odu." },
-  { "text": "Mmiri anaghi eri onye ona ahughi ukwu ya" },
-  { "text": "Okwụrụ anaghi amiri ote ofe" },
-  {
-    "text": "Mmiri riri enyi ka mbe huru na-awa ogodo: o ga-efe mmiri a efe ka o ga-awu ya awu?"
-  },
-  { "text": "Ohia woro gi nku, sere gi onu" },
-  {
-    "text": "O bia mgbe alio ene gburu atu, ya biakwa ma atu zogbuo alio ene. (He who calls whenever elder deer kills a buffalo, let him also call when the buffalo stamps an elder Ene to death)."
+    "id": "-MYaMmmNXklLCwcu9nMf",
+    "text": "Onye ubiam ona aza \"Omeokachie\"?"
   },
   {
-    "text": "O buru na i taa m aru n'ike, ma i zeghi nsi; mu taa gi aru n'isi, agaghi m ezere uburu"
-  },
-  { "text": "Okuko mmanya na-egbu ahubeghi mmanwulu (fox) ara na-ayi." },
-  {
-    "text": "Nwaanyi anaghi-eji na nwunyedi ya kwere ya ekene nke oma kpowa ya ogo."
-  },
-  { "text": "Mmiri anaghi agbaru nisi ya" },
-  { "text": "Echi di ime onye ma ighe ọ ga amụ." },
-  { "text": "Anaghi ekpuchi anwụrụ ọkụ." },
-  { "text": "Onye mmiri amaghi amagi mmiri nwere okpukpu" },
-  { "text": "Onye anwụ gbara na atụ ogboro ijiji egwụ." },
-  { "text": "Atụọ dike n’ala, anụ uzu ya." },
-  { "text": "O were onye etinyere azụ na ọnụ, ya si na ya achọghi." },
-  { "text": "Osọndu anaghị agwụ ike." },
-  { "text": "Onye ka mmadụ ka chi ya" },
-  { "text": "Okoro etoghi eto wara ọgọdọ, ikuku eburuya ma ọgọdọ ya." },
-  { "text": "Ọnụ ọma ka nwanyi ji anara di ya ihe." },
-  { "text": "Ogori nuo di n’abọ ọ mara nke ka mma." },
-  { "text": "E nenie nwaite ọ gbọnyụọ ọku" },
-  {
-    "text": "Kama mmanya ga esetara enyi na abọ okwu ka ite mmanya a hu, kọwa na ụzọ."
-  },
-  { "text": "Oke soro ngwere maa mmiri, mmiri kọọ ngwere ọga akọwa oke? " },
-  {
-    "text": "Onye nyere nwa osa akwu ahuru ahu? (Who gave a squirrel roasted palm fruit? Who give a poor man good thing of life? )"
-  },
-  { "text": "Isi kote ebu, ebu agbaa ya." },
-  { "text": "Ubochi ọgụ a bụ ghi ụbọchi ikpe." },
-  { "text": "Mberede yiri dike, mana ọ bu mberedé ka eji ama dike." },
-  { "text": "Ihe okenye nọ ala hu nwata anaghi ahu ya na enu osisi." },
-  { "text": "Agbanwee dike izu, agbaa ya mgba n’abo." },
-  { "text": "Onye ga-asi na ofe nne ya adịghị ụtọ?" },
-  { "text": "Ewu mmadu abuọ nwe na ehị n’iro" },
-  { "text": "O nweghi ihe ura mere anya" },
-  {
-    "text": "Nwata etoghi eto juwa ihe gburu nnaya, ihe gburu nna ya egbuo ya"
+    "id": "-MYaMmmNXklLCwcu9nMg",
+    "text": "Mbe si na oru oha di mma, mana oriri oha na-aka ahu."
   },
   {
-    "text": "Ajuru nwata ihe gburu nna ya, o si na obu eju. Ajuo ya ihe gburu o si obu eju. Ajuo ya gini ka oji na aka, o si obu eju. Nwam ndu o na-agukwa gi?"
-  },
-  { "text": "ọzụ shiwe ishi, enyi ka nwanne a laa" },
-  { "text": "Mmiri dooro na eju, dooro nwa nkita" },
-  { "text": "Onye ndidi na-ata azu ukpoo" },
-  { "text": "Agu bata ohia mgbada awara oso" },
-  { "text": "Aka aja aja na ebute onu mmanu mmanu" },
-  { "text": "Emee ngwa ngwa emehara odachi" },
-  { "text": "Oji nwayo anaghi emeru ahu" },
-  { "text": "Ochuu abuo anaghi enweta" },
-  { "text": "Eze puo, eze anochie" },
-  { "text": "Onye kwe chi ya ekwe" },
-  { "text": "Ihe akiilu na-ada na nti abughi ihe o na ato n’onu" },
-  { "text": "Ihe akotara na akuku ite na ala na akuku onu" },
-  { "text": "Anu bu uzo na-anu mmiri oma" },
-  { "text": "Anaghi enye oke azu ka odebe" },
-  { "text": "Anaghi ekpuchi afo ime aka" },
-  { "text": "Onye amuma anaghi enwe ugwu na ala nna ya." },
-  { "text": "Uwa na-eme ntughari" },
-  { "text": "Ukwa ruo oge ya, o daa" },
-  { "text": "Ochi abughi uto" },
-  { "text": "Uka akpara akpa, isi ka eji ekwe ya" },
-  { "text": "Obu onye nwe ozu na-ebu ebe isi ya" },
-  {
-    "text": "Kedu ihe anyi ga-eme nwata na awa akwa anu ara nne ya (as per agadi ekwe nka)"
+    "id": "-MYaMmmOrwgqVDqzTeVW",
+    "text": "Nwaanyi muta ite ofe mmiri mmiri, di ya amuta ipi utara aka were suru ofe.",
+    "literalTranslation": "When a woman learns to make watery soup, the husband learns to make a hole in the mould before making soup"
   },
   {
-    "text": "I nyuchaa nsi, ekpochighi ya aja, o buru afo osisa. (Work to completion)"
+    "id": "-MYaMmmOrwgqVDqzTeVX",
+    "text": "Ugwu muta igbaji ukwu, agadi nwanyi amuta arikata ezuo ike",
+    "literalTranslation": "If the hill learns to prove tough climb, the aged woman learns how to rest intermittently while climbing"
   },
-  { "text": "O ma akwa asa ahu, mara onwe ya." },
-  { "text": "Okuko hapu kwomkwom keduzi ihe oga eji zuo umu ya?" },
-  { "text": "Onye fee eze, eze eruo ya aka" },
-  { "text": "Anaghi agwa ochi nti na agha esula" },
   {
-    "text": "Nkita nwere ike iju nri, mana ogaghi aju iza oku. (find out why you were called)"
+    "id": "-MYaMmmOrwgqVDqzTeVY",
+    "text": "Mbe si na ihe ya ji-achiri ihe egwu ya aga njem bu maka ya izute ndi egwu.",
+    "literalTranslation": "The tortoise says that why he always travels with his music instruments is because he doesn't know when he would meet fellow musicians",
+    "meaning": ""
   },
-  { "text": "Nkita nwere ike amaghi ano odu" },
-  { "text": "Onye aghugho lie onwe ya, ofu aka ya ga eseriri n’elu" },
-  { "text": "Agwo turu mbe turu okpokoro" },
-  { "text": "Anya bewe, imi esoro ya" },
-  { "text": "Anaghi eji ihe ana agba na nti agba na anya" },
-  { "text": "Ire oma ka ejuna ji aga n’ogwu" },
-  { "text": "Ofo ka ide ji awa ala" },
-  { "text": "Ahu ekwughi mere okenye. Ekwuo ma anughi mere nwata" },
   {
-    "text": "Oke akwakwana anya taa akpa dibia. Dibia akwakwana anya buwe oke onu"
+    "id": "-MYaMmmP8Fwqbd_0QSrR",
+    "text": "O na-abu a si nwata wuba ahu, o saba afo ya.",
+    "literalTranslation": "When a child is told to bath, he starts bathing his belly",
+    "meaning": "People can only do what they know of"
   },
-  { "text": "Ekweekwe na-ekwe na ute ekwere." },
   {
-    "text": "Aruru siri na o maara ka o ga adi ya na udi mmiri, o nwee jiri okochi kpaa nri."
+    "id": "-MYaMmmP8Fwqbd_0QSrS",
+    "text": "Ukpana gbabara n'ikpo okuko na-ala ala mmuo.",
+    "literalTranslation": "The grasshopper which runs into the midst of cocks is going to the land of the dead",
+    "meaning": ""
   },
-  { "text": "Onye amamihe na Aba bu onye apari na Abba" },
-  { "text": "Agha akpara akpa anaghi eri ngworo" },
   {
-    "text": "Si hapu isi nkwu na ure nkwu, si nukene ihe nkwu gbatara (forget the smell and soured look of the palm wine and drink it first before judging)"
+    "id": "-MYaMmmQ2zGqfYZB2YQd",
+    "text": "Onye a kporo apari, o na-ehi n'amanna ya, abughi apari.",
+    "literalTranslation": "A so called worthless man who sleeps in his father's compound (as opposed to the bar or something) is not a worthless man",
+    "meaning": "It is no small wisdom to always remember your home/family/roots"
   },
-  { "text": "Oche ka o rie nne di awo" },
-  { "text": "Ihe rachara ofe eburukwuola utara" },
   {
-    "text": "Ihe riri oba erikwuola ihe di oba n’ime (what ate the barn has also eaten the contents in the barn"
+    "id": "-MYaMmmQ2zGqfYZB2YQe",
+    "text": "Ndi na-eje mposi abali na-ahu ukpana ndi mmuo.",
+    "literalTranslation": "Those to go stooling at night (in the bush), do see the grasshopper of the spirits",
+    "meaning": ""
   },
-  { "text": "Oburu na mu agbaghi mmiri agam agbariri obara" },
-  { "text": "Anam anwuanwu ezutela anam anwuwanyu anya" },
-  { "text": "Echewe ka esi n’imi rahu ura chi ga efo" }
+  {
+    "id": "-MYaMmmQ2zGqfYZB2YQf",
+    "text": "Nwata bunie nna ya enu, akpaamu ya ayochie ya anya.",
+    "literalTranslation": "When a child lifts up his father off the ground (in a fight), his father's balls would cover his eyes",
+    "meaning": "Fight your elders to your doom"
+  },
+  {
+    "id": "-MYaMmmSkryRnjQ6ZIPE",
+    "text": "Onye hapu onu ya, uguru arachaa ya.",
+    "literalTranslation": "If one neglects (to lick) his lips, the harmattan will lick it for him",
+    "meaning": "Take care of what belongs to you or watch it spoilt"
+  },
+  {
+    "id": "-MYaMmmSkryRnjQ6ZIPF",
+    "text": "Okuko si na ihe ya ji-ele anya n'enu ma ya na añu mmiri bu na ihe na-egbu si n'igwe abia.",
+    "literalTranslation": "The cock said that why he keeps looking at the sky while drinking water is because the thing that kills always comes from above",
+    "meaning": "Know your enemy. Don't be naive in face of danger"
+  },
+  {
+    "id": "-MYaMmmTXdAdY62m79Ym",
+    "text": " \"Nwunye anyi, nwunye anyi\": ka ndeeli bia ka anyi mara onye o bu nwunye ya.",
+    "literalTranslation": "\"Our wife, our wife\": wait till nightfall and we would know whose wife she is",
+    "meaning": "Action speaks louder than voice"
+  },
+  {
+    "id": "-MYaMmmTXdAdY62m79Yn",
+    "text": "Ura towa uto, ekwowe ya ekwowe.",
+    "literalTranslation": "When the sleep becomes so sweet, one snores",
+    "meaning": "When an experience becomes enjoyable, you put even more resources and attention to it"
+  },
+  {
+    "id": "-MYaMmmUre99jNm82Osk",
+    "text": "O bialu be onye abiagbuna ya, mgbe o ga-ala mkpumkpu apukwana ya n'azu.",
+    "literalTranslation": "The visitor should not bring misfortune, so that when he leaves he may not develop a hunchback",
+    "meaning": ""
+  },
+  {
+    "id": "-MYaMmmUre99jNm82Osl",
+    "text": "Nwa ovu na-eto, o di ka o ga-aka nne ya.",
+    "literalTranslation": "When the baby wren is growing, it looks like it would be bigger than its mother",
+    "meaning": ""
+  },
+  {
+    "id": "-MYaMmmVjASMOYKPo35N",
+    "text": "Okuko na-arọgọrọ ite onu, chetekwe mma gburu ya.",
+    "literalTranslation": "The cock twisting its neck in anger at the pot should remember the knife that killed it",
+    "meaning": "Don't transfer aggression and anger to people who did you no wrong"
+  },
+  {
+    "id": "-MYaMmmVjASMOYKPo35O",
+    "text": "Ihe ka-nte bata n'onu nte, nte etefu.",
+    "literalTranslation": "When something greater than the pigmy cricket enters its hole, it takes off",
+    "meaning": "A major crises forces one out his comfort zone and running up and about for a solution"
+  },
+  {
+    "id": "-MYaMmmWp8G-C38RQN1n",
+    "text": "Uzu na-amaghi akpu ogene lee egbe anya n'odu.",
+    "literalTranslation": "The smith who does not know how to mold a gong should look at the hawk's tail",
+    "meaning": "You can take clues from similar objects"
+  },
+  {
+    "id": "-MYaMmmWp8G-C38RQN1o",
+    "text": "Mmiri anaghi eri onye ona ahughi ukwu ya",
+    "literalTranslation": "The river can't drown a man who never stepped into it",
+    "meaning": "The best way to overcome temptation is to avoid it"
+  },
+  {
+    "id": "-MYaMmmWp8G-C38RQN1p",
+    "text": "Okwụrụ anaghi amiri ote ofe",
+    "literalTranslation": "The good cook never gets a good harvest of okro in his farm",
+    "meaning": "Good opportunities don't come by for those who knows how to utilize them"
+  },
+  {
+    "id": "-MYaMmmXKxW5QvuzLqJi",
+    "text": "Mmiri riri enyi ka mbe huru na-awa ogodo: o ga-efe mmiri a efe ka o ga-awu ya awu?",
+    "literalTranslation": "The river that swallowed an elephant is what the tortoise is preparing to go into. Is it going to fly over it or jump across?",
+    "meaning": "Don't take excessive risks"
+  },
+  {
+    "id": "-MYaMmmXKxW5QvuzLqJj",
+    "text": "Ohia woro gi nku, sere gi onu",
+    "literalTranslation": "The bush which denies you firewood, actually stretched your neck",
+    "meaning": "Every disppointment is a blessing"
+  },
+  {
+    "id": "-MYaMmmYXlIGBBi1Kgf9",
+    "text": "O bia mgbe alio ene gburu atu, ya biakwa ma atu zogbuo alio ene.",
+    "literalTranslation": "He who calls whenever elder deer kills a buffalo, let him also call when the buffalo stamps an elder Ene to death",
+    "meaning": "People who encourage weaker people to go violent, should also be there for them when the violence engulfs them"
+  },
+  {
+    "id": "-MYaMmmYXlIGBBi1KgfA",
+    "text": "O buru na i taa m aru n'ike, ma i zeghi nsi; mu taa gi aru n'isi, agaghi m ezere uburu",
+    "literalTranslation": "If you bite me at the buttocks without minding faeces; when I bite your head, I wouldn't stir clear of your brain",
+    "meaning": "If you harm me knowingly. when I revenge, I go for the kill"
+  },
+  {
+    "id": "-MYaMmmZ5tWx4giOSJfd",
+    "text": "Okuko mmanya na-egbu ahubeghi mmanwulu ara na-ayi.",
+    "literalTranslation": "A drunk cock has not seen a mad fox",
+    "meaning": "Every stubborn person has someone he respects and fears"
+  },
+  {
+    "id": "-MYaMmmZ5tWx4giOSJfe",
+    "text": "Nwanyi anaghi eji na nwunye di ya kwere ya ekene nke oma kpowa ya ogo",
+    "literalTranslation": "A woman does not start calling her husband's brother's wife an inlaw just because the woman responded to her greeting",
+    "meaning": "You don't take an enemy as a friend just because he suddenly acts nice"
+  },
+  {
+    "id": "-MYaMmm_kPy3QAhC-pZk",
+    "text": "Mmiri anaghi agbaru n'isi ya",
+    "literalTranslation": "A stream does not get stale in its source",
+    "meaning": ""
+  },
+  {
+    "id": "-MYaMmmaEKa1bdOZgOPA",
+    "text": "Echi di ime. Onye ma ihe ọ ga amụ?",
+    "literalTranslation": "Tomorrow is pregnant. Who knows what it will bear?",
+    "meaning": "The future is unpredictable"
+  },
+  {
+    "id": "-MYaMmmbE8IHt3OXGGLM",
+    "text": "Anaghi ekpuchi anwụrụ ọkụ.",
+    "literalTranslation": "You don't a smoke",
+    "meaning": "Don't try to hide what can't be hidden"
+  },
+  {
+    "id": "-MYaMmmbE8IHt3OXGGLN",
+    "text": "Onye mmiri amaghi amagi mmiri nwere okpukpu",
+    "literalTranslation": "He who has not beaten by the one who does not know that the rain has bones in it",
+    "meaning": "Experience is the best teacher. People who have not experienced something tend to underestimate it"
+  },
+  {
+    "id": "-MYaMmmcEuxM3YVYojnW",
+    "text": "Onye anwụ gbara na atụ ogboro ijiji egwụ.",
+    "literalTranslation": "He who was bitten by a mosquito dreads the corpse of a housefly",
+    "meaning": "Bad experience makes people to become paranoid"
+  },
+  {
+    "id": "-MYaMmmcEuxM3YVYojnX",
+    "text": "Atụọ dike n’ala, anụ uzu ya.",
+    "literalTranslation": "When they throw down a warrior (in a fight) he makes a loud sound",
+    "meaning": "The fall of the mighty makes for big news"
+  },
+  {
+    "id": "-MYaMmmds7a9D85kNJV2",
+    "text": "O were onye etinyere azụ na ọnụ, ya si na ya achọghi?",
+    "literalTranslation": "Is there anyone who rejects a piece of fish put in his mouth?",
+    "meaning": "Everybody likes good things"
+  },
+  {
+    "id": "-MYaMmmds7a9D85kNJV3",
+    "text": "Osọndu anaghị agwụ ike.",
+    "literalTranslation": "People don't get tired when running for their lives",
+    "meaning": "When struggling for survival, you don't quit"
+  },
+  {
+    "id": "-MYaMmmeQqC6PuRho1jw",
+    "text": "Onye ka mmadụ ka chi ya",
+    "literalTranslation": "He who is greater than someone is also greater than that person's chi (personal god/spirit force)",
+    "meaning": ""
+  },
+  {
+    "id": "-MYaMmmeQqC6PuRho1jx",
+    "text": "Okoro etoghi eto wara ọgọdọ, ikuku eburuya ma ọgọdọ ya.",
+    "literalTranslation": "When a young man starts wearing clothes before reaching maturity, the wind carries both him and the cloth",
+    "meaning": "Take life in steps. Don't do things before the right time"
+  },
+  {
+    "id": "-MYaMmmeQqC6PuRho1jy",
+    "text": "Ọnụ ọma ka nwanyi ji anara di ya ihe.",
+    "literalTranslation": "A good mouth is what a woman uses to get things from her husband",
+    "meaning": "Soft words attracts favour"
+  },
+  {
+    "id": "-MYaMmmfznyS7WDH5aj2",
+    "text": "Ogori nuo di n’abọ ọ mara nke ka mma.",
+    "literalTranslation": "When a woman marries two husbands, she then realizes the one she prefers",
+    "meaning": "Experience makes for informed decision"
+  },
+  {
+    "id": "-MYaMmmfznyS7WDH5aj3",
+    "text": "E nenie nwaite ọ gbọnyụọ ọku",
+    "literalTranslation": "When you look down on a small pot it tends to boil over and quench the fire",
+    "meaning": "Don't look down on nobody"
+  },
+  {
+    "id": "-MYaMmmfznyS7WDH5aj4",
+    "text": "Kama mmanya ga esetara enyi na abọ okwu ka ite mmanya a hu, kọwa na ụzọ.",
+    "literalTranslation": "It is preferable that the wine pot rather break on the way, rather than the wine becoming an object of strife between",
+    "meaning": "Better a 'good thing' be lost than that it causes division between brothers or friends"
+  },
+  {
+    "id": "-MYaMmmfznyS7WDH5aj5",
+    "text": "Oke soro ngwere maa mmiri, mmiri kọọ ngwere ọga akọwa oke? ",
+    "literalTranslation": "The rat joins the lizard to play in the rain. When the lizard dries up shortly afterwards would the rat also dry?",
+    "meaning": "Don't do things because others are doing same"
+  },
+  {
+    "id": "-MYaMmmgWNR-iYpuYmPL",
+    "text": "Onye nyere nwa osa akwu ahuru ahu?",
+    "literalTranslation": "Who gave a squirrel roasted palm fruit?",
+    "meaning": "Who give a poor man good thing of life?"
+  },
+  {
+    "id": "-MYaMmmgWNR-iYpuYmPM",
+    "text": "Isi kote ebu, ebu agbaa ya.",
+    "literalTranslation": "The head that brings home the wisp, would surely be bitten by it",
+    "meaning": "There are consequences for every action"
+  },
+  {
+    "id": "-MYaMmmgWNR-iYpuYmPN",
+    "text": "Ubochi ọgụ abụghi ụbọchi ikpe.",
+    "literalTranslation": "The day of battle is not the day for peace discussions",
+    "meaning": "There is time for everything. OR Do not handle tense situations with kid gloves"
+  },
+  {
+    "id": "-MYaMmmh39lbWMV29hbB",
+    "text": "Mberede yiri dike, mana ọ bu mberedé ka eji ama dike.",
+    "literalTranslation": "An unforseen circumstance defies a warrior. Yet warriors are proven by unforseen circumstances",
+    "meaning": "Strong people are known in tough times"
+  },
+  {
+    "id": "-MYaMmmh39lbWMV29hbC",
+    "text": "Ihe okenye nọ ala hu nwata anaghi ahu ya na enu osisi.",
+    "literalTranslation": "What an elder sees sitting down, a young child cannot see it even if he climbs a tree",
+    "meaning": "experience matters"
+  },
+  {
+    "id": "-MYaMmmh39lbWMV29hbD",
+    "text": "Agbanwee dike izu, agbaa ya mgba n’abo.",
+    "literalTranslation": "A discussion held in the absence of a strong man, would be held a second time",
+    "meaning": "Some persons are indispensable in some gatherings"
+  },
+  {
+    "id": "-MYaMmmh39lbWMV29hbE",
+    "text": "Onye ga-asi na ofe nne ya adịghị ụtọ?",
+    "literalTranslation": "Who ever says his mother's soup is not tasty?",
+    "meaning": "People will always support their own"
+  },
+  {
+    "id": "-MYaMmmi8DrpCjJIjbtx",
+    "text": "Ewu mmadu abuọ nwe na ehị n’iro",
+    "literalTranslation": "A goat fed by two persons usually dies of hunger"
+  },
+  {
+    "id": "-MYaMmmi8DrpCjJIjbty",
+    "text": "O nweghi ihe ura mere anya",
+    "literalTranslation": "Sleep causes no damage to the eyes",
+    "meaning": "A temporal setback does no damage. (We close our eyes when sleeping only to open them again bright and clear afterwards"
+  },
+  {
+    "id": "-MYaMmmi8DrpCjJIjbtz",
+    "text": "Nwata etoghi eto juwa ihe gburu nnaya, ihe gburu nna ya egbuo ya",
+    "literalTranslation": "When a child starts probing the cause of his father's death before getting mature enough; then what killed his father would eventually kill him too",
+    "meaning": "Apply discretion in dangerous matters"
+  },
+  {
+    "id": "-MYaMmmjoDQLlefg_FCI",
+    "text": "Ajuru nwata ihe gburu nne ya, o si na obu eju. Ajuo ya ihe gburu nna ya, O si obu eju. Ajuo ya gini ka o ji na aka, o si obu eju. Nwam ndu o na-agukwa gi?",
+    "literalTranslation": "A child was asked what killed his mother and he said 'snail'. He was asked what killed his father and he said snail. He was asked what he had in his hand, he said snail. My child do you desire to live at all?",
+    "meaning": "Avoid things which are not good for you"
+  },
+  {
+    "id": "-MYaMmmjoDQLlefg_FCJ",
+    "text": "ọzụ shiwe ishi, enyi ka nwanne a laa",
+    "literalTranslation": "When the corpse begins to ooze, 'the friend greater than a brother' would take his leave",
+    "meaning": "It is only family that will never forsake you"
+  },
+  {
+    "id": "-MYaMmmkvA90dI2t4N70",
+    "text": "Mmiri dooro na eju, dooro nwa nkita",
+    "literalTranslation": "",
+    "meaning": "One's responsibilities always await him"
+  },
+  {
+    "id": "-MYaMmmlFFw1EMcikfOC",
+    "text": "Onye ndidi na-ata azu ukpoo",
+    "literalTranslation": "The patient man eats a big fish"
+  },
+  {
+    "id": "-MYaMmmmZlMnz1ewjFj5",
+    "text": "Agu bata ohia mgbada awara oso",
+    "literalTranslation": "When the leopard enters the jungle, the antelope runs for his life",
+    "meaning": "At the entrance of a powerful man, small problems disappear"
+  },
+  {
+    "id": "-MYaMmmmZlMnz1ewjFj6",
+    "text": "Aka aja aja na ebute onu mmanu mmanu",
+    "literalTranslation": "Sandy hands bring about an oily mouth",
+    "meaning": "No pain no gain"
+  },
+  {
+    "id": "-MYaMmmmZlMnz1ewjFj7",
+    "text": "Emee ngwa ngwa emehara odachi",
+    "literalTranslation": "Doing things with speed prevents future catastrophies",
+    "meaning": "When you handle issues as soon as possible you prevent future catastrophies"
+  },
+  {
+    "id": "-MYaMmmmZlMnz1ewjFj8",
+    "text": "Oji nwayo anaghi emeru ahu",
+    "literalTranslation": "He who walks gently doesn't get injured",
+    "meaning": "Take things easy"
+  },
+  {
+    "id": "-MYaMmmnUTmZm7xevus6",
+    "text": "Ochuu abuo anaghi enweta",
+    "literalTranslation": "He who chases two things at a time does not get any",
+    "meaning": "Learn to focus"
+  },
+  {
+    "id": "-MYaMmmnUTmZm7xevus7",
+    "text": "Eze puo, eze anochie",
+    "literalTranslation": "When a king dies, another replaces him",
+    "meaning": "Nobody is indispensible"
+  },
+  {
+    "id": "-MYaMmmoLTSQWum8AR1t",
+    "text": "Onye kwe chi ya ekwe",
+    "literalTranslation": "When one says yes, his Chi (spirit/personal god/life force) also affirms",
+    "meaning": "heaven helps those who help themselves"
+  },
+  {
+    "id": "-MYaMmmoLTSQWum8AR1u",
+    "text": "Ihe akiilu na-ada na nti abughi ihe o na ato n’onu",
+    "literalTranslation": "The way the bitter kola sounds (when chewed) is not the same way it tastes",
+    "meaning": "All that glitters is not gold"
+  },
+  {
+    "id": "-MYaMmmpogPIzB6TFDGb",
+    "text": "Ihe akotara na akuku ite na ala na akuku onu",
+    "literalTranslation": "What is gotten from the side of the pot ends up in the side of the mouth",
+    "meaning": "Illgotten wealth is not enjoyed fully"
+  },
+  {
+    "id": "-MYaMmmpogPIzB6TFDGc",
+    "text": "Anu bu uzo na-anu mmiri oma",
+    "literalTranslation": "The earliest animal to the stream drinks fresh water",
+    "meaning": "It pays to be ahead"
+  },
+  {
+    "id": "-MYaMmmqOnc8CMGCaBbh",
+    "text": "Anaghi enye oke azu ka odebe",
+    "literalTranslation": "You don't give fish to a rat for safekeeping",
+    "meaning": "Don't trust someone with his weakness"
+  },
+  {
+    "id": "-MYaMmmqOnc8CMGCaBbi",
+    "text": "Anaghi ekpuchi afo ime aka",
+    "literalTranslation": "You can't cover a pregnancy with your bare hands",
+    "meaning": "Good things cannot be hidden"
+  },
+  {
+    "id": "-MYaMmmr4PZQ07eMonnF",
+    "text": "Onye amuma anaghi enwe ugwu na ala nna ya.",
+    "literalTranslation": "A prophet has no respect in his home town",
+    "meaning": "We don't what we have"
+  },
+  {
+    "id": "-MYaMmmvT11oDAbTkosT",
+    "text": "Uwa na-eme ntughari",
+    "literalTranslation": "The world rotates",
+    "meaning": "nothing lasts for ever"
+  },
+  {
+    "id": "-MYaMmmwAn5U5NWr-x59",
+    "text": "Ukwa ruo oge ya, o daa",
+    "literalTranslation": "A breadfruit falls from the tree at its due time",
+    "meaning": "Desirable things would come by at the appointed time"
+  },
+  {
+    "id": "-MYaMmmwAn5U5NWr-x5A",
+    "text": "Ochi abughi uto",
+    "literalTranslation": "laughter does not imply friendship",
+    "meaning": "Don't be deceived by superficials"
+  },
+  {
+    "id": "-MYaMmmxcMdQCGJXnQdg",
+    "text": "Uka akpara akpa, isi ka eji ekwe ya",
+    "literalTranslation": "A thoroughly discussed matter only requires nods of affirmation",
+    "meaning": "Thorough discussion of an issue helps ensures agreement"
+  },
+  {
+    "id": "-MYaMmmzAZW4cZpkl7LZ",
+    "text": "Obu onye nwe ozu na-ebu ebe isi ya",
+    "literalTranslation": "It is he who owns the corpse that carries it from the head side"
+  },
+  {
+    "id": "-MYaMmmzAZW4cZpkl7L_",
+    "text": "Kedu ihe anyi ga-eme nwata na awa akwa anu ara nne ya?",
+    "literalTranslation": "What shall we do to a child that can wear a cloth but still suckles the mother's breast?",
+    "meaning": "It is not right for adults to still have childish attitudes"
+  },
+  {
+    "id": "-MYaMmn-Sd38ak1eAISq",
+    "text": "I nyuchaa nsi, ekpochighi ya aja, o buru afo osisa",
+    "literalTranslation": "It is only dysentry that makes one defecate on the ground and not cover it up with sand afterwards",
+    "meaning": "Do not do things halfway. Do things to completion"
+  },
+  {
+    "id": "-MYaMmn-Sd38ak1eAISr",
+    "text": "O ma akwa asa ahu, mara onwe ya.",
+    "literalTranslation": "He who baths with his clothes should better advice himself",
+    "meaning": "The evildoer should think twice about his actions"
+  },
+  {
+    "id": "-MYaMmn0H7_zItGtezdK",
+    "text": "Okuko hapu kwomkwom keduzi ihe oga eji zuo umu ya?",
+    "literalTranslation": "If the mother hen stops clucking, how is she going to feed her chicks",
+    "meaning": ""
+  },
+  {
+    "id": "-MYaMmn0H7_zItGtezdL",
+    "text": "Onye fee eze, eze eruo ya aka",
+    "literalTranslation": "When one reveres the king, he himself gets to become royalty one day",
+    "meaning": "Give honour to whom it is due"
+  },
+  {
+    "id": "-MYaMmn0H7_zItGtezdM",
+    "text": "Anaghi agwa ochi nti na agha esula",
+    "literalTranslation": "You don't tell an obstinate man that the war has broken out",
+    "meaning": "When people don't listen to premonition are damned to face the consequences"
+  },
+  {
+    "id": "-MYaMmn1dSwaJVucmAXW",
+    "text": "Nkita nwere ike iju nri, mana ogaghi aju iza oku",
+    "literalTranslation": "A dog may refuse to eat. But it can't refuse to answer your call first",
+    "meaning": "Don't let disagreements breach communication"
+  },
+  {
+    "id": "-MYaMmn1dSwaJVucmAXX",
+    "text": "Nkita nwere ike amaghi ano odu",
+    "literalTranslation": "The dog with bountiful buttocks does not know how to sit down",
+    "meaning": "People who have treasures handed hand to them usually misuse it"
+  },
+  {
+    "id": "-MYaMmn1dSwaJVucmAXY",
+    "text": "Onye aghugho lie onwe ya, ofu aka ya ga eseriri n’elu",
+    "literalTranslation": "When a cunning man dies, a cunning man buries him",
+    "meaning": "When you want to trick people, you usually get tricked yourself"
+  },
+  {
+    "id": "-MYaMmn2NjV3912TTyXN",
+    "text": "Agwo turu mbe turu okpokoro",
+    "literalTranslation": "A snake that bites a tortoise (shell), actually bit some inanimate container",
+    "meaning": "A weak man can withstand more deadly foes is he well protected"
+  },
+  {
+    "id": "-MYaMmn3u3WivJqEsuYq",
+    "text": "Anya bewe, imi esoro ya",
+    "literalTranslation": "When the eyes starts crying, the nose follows suit",
+    "meaning": "It is good to moan with others"
+  },
+  {
+    "id": "-MYaMmn4oHALgf4smIJu",
+    "text": "Anaghi eji ihe ana agba na nti agba na anya",
+    "literalTranslation": "You don't wear an earring on your eyes",
+    "meaning": "Don't play with precious things"
+  },
+  {
+    "id": "-MYaMmn4oHALgf4smIJv",
+    "text": "Ire oma ka ejuna ji aga n’ogwu",
+    "literalTranslation": "A good tongue is what enables the snail to thread on thorns. (The snail's body looks like a tongue). A soft, slippery body is what enables the snail to walk on thorns",
+    "meaning": "Soft words calm tense situations"
+  },
+  {
+    "id": "-MYaMmn4oHALgf4smIJw",
+    "text": "Ofo ka ide ji awa ala",
+    "literalTranslation": "Uprightness/Purity of heart is the weapon with which the flood digs gullies",
+    "meaning": "A pure heart can overcome seeming rocklike obstacles"
+  },
+  {
+    "id": "-MYaMmn5o6PRVrzGKTlX",
+    "text": "Ahu ekwughi mere okenye. Ekwuo ma anughi mere nwata",
+    "literalTranslation": "Seeing without saying the elder's bane. Speaking without listening is the child's bane",
+    "meaning": "Virtue lies in the middle"
+  },
+  {
+    "id": "-MYaMmn5o6PRVrzGKTlY",
+    "text": "Oke amakwana ụma taa akpa dibia. Dibia amakwana ụma buwe oke onu",
+    "literalTranslation": "The rat should not maliciously chew the native doctor's bag. The native doctor should not maliciously starve the rat",
+    "meaning": "Give everyone his due"
+  },
+  {
+    "id": "-MYaMmn5o6PRVrzGKTlZ",
+    "text": "Ekweekwe na-ekwe na ute ekwere.",
+    "literalTranslation": "The obstinate person will finally become obedient on the burial mat",
+    "meaning": "Don't be too headstrong"
+  },
+  {
+    "id": "-MYaMmn6HjwCcRfEmvYc",
+    "text": "Aruru siri na o maara ka o ga adi ya na udi mmiri, o nwee jiri okochi kpaa nri",
+    "literalTranslation": "The ant said he knows how tough it will be during rainy season. That is why it used the dry season to gather food",
+    "meaning": "Plan for the rainy day"
+  },
+  {
+    "id": "-MYaMmn6HjwCcRfEmvYd",
+    "text": "Onye amamihe na Aba bu onye apari na Abba",
+    "literalTranslation": "A wise man in Aba (a town) becomes a foolish man in Abba (another town)",
+    "meaning": "No one knows it all"
+  },
+  {
+    "id": "-MYaMmn6HjwCcRfEmvYe",
+    "text": "Agha akpara akpa anaghi eri ngworo",
+    "literalTranslation": "A cripple does not die in a pre-announced war",
+    "meaning": "To be forewarned is to be forearmed"
+  },
+  {
+    "id": "-MYaMmn7cBEwroAGbRe4",
+    "text": "Si hapu isi nkwu na ure nkwu, si nukene ihe nkwu gbatara",
+    "literalTranslation": "forget the smell and soured look of the palm wine and drink it first before judging",
+    "meaning": "Don't judge a book by its cover"
+  },
+  {
+    "id": "-MYaMmn7cBEwroAGbRe5",
+    "text": "Oche ka o rie nne di awo",
+    "literalTranslation": "He who waits till he has much before he can give is stingy",
+    "meaning": "You can help people from the little you have"
+  },
+  {
+    "id": "-MYaMmn8mBIu23oP2M9M",
+    "text": "Ihe rachara ofe eburukwuola utara",
+    "literalTranslation": "What licked the soup has also carried the pounded yam",
+    "meaning": "Things have gotten out of hand"
+  },
+  {
+    "id": "-MYaMmn8mBIu23oP2M9N",
+    "text": "Ihe riri oba erikwuola ihe di oba n’ime",
+    "literalTranslation": "what ate the barn has also eaten the contents in the barn",
+    "meaning": "Things have gotten out of hand"
+  },
+  {
+    "id": "-MYaMmn9XLkZM76DzWN8",
+    "text": "Oburu na mu agbaghi mmiri agam agbariri obara",
+    "literalTranslation": "",
+    "meaning": "I will give all it takes"
+  },
+  {
+    "id": "-MYaMmn9XLkZM76DzWN9",
+    "text": "Anam anwuanwu ezutela anam anwuwanyu anya"
+  },
+  {
+    "id": "-MYaMmnAwQnhsVDOfGv5",
+    "text": "Echewe ka esi n’imi rahu ura chi ga efo"
+  },
+  {
+    "id": "-MYwJdcqEIyckIIV47Ml",
+    "literalTranslation": "A newly married wife sweeps even a closed path",
+    "meaning": "People show their best behaviour at the beginning of relationships",
+    "text": "Alụọ nwanyi ọhụụ, ọ zaa ámá chiri echi"
+  },
+  {
+    "id": "-MYwQKtLYFBF-NdOcM2L",
+    "meaning": "Everyone has a valid reason why they cannot do what they desire to do",
+    "literalTranslation": "The tortoise said he desires to be a teacher, only that his hands are too short to reach the blackboard",
+    "text": "Mbekwu sịrị na nkụzi na agụ ya mana aka ya agaghị eruzi na ebe edemede"
+  },
+  {
+    "text": "Akpaa akpaa arahụ n'ute",
+    "literalTranslation": "When proper dialogue is done, they can sleep on the mat",
+    "meaning": "dialogue makes for peaceful co-existence"
+  }
 ]
