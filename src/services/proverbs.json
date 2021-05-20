@@ -89,7 +89,8 @@
   {
     "id": "-MYaMmjs1wMsdqMPf5vN",
     "literalTranslation": "When the glutton eats the chameleon, he would stop eating meat",
-    "text": "Ụsakụsa rie ogwumagana ọ kwụsị iri anụ"
+    "text": "Ụsakụsa rie ogwumagana ọ kwụsị iri anụ",
+    "meaning": "When one's bad habit lands him into unpleasant circumstances, he rapidly changes his ways"
   },
   {
     "id": "-MYaMmjtaXvpliIVWyx1",
@@ -98,7 +99,8 @@
   {
     "id": "-MYaMmjtaXvpliIVWyx2",
     "literalTranslation": "If a child eats a food meant for elders, the spirits take notice of him (in a bad way)",
-    "text": "Nwata rie nri okenye, ndị mmụọ ahụwa ya ama"
+    "text": "Nwata rie nri okenye, ndị mmụọ ahụwa ya ama",
+    "meaning": "Grave actions attract bad publicity"
   },
   {
     "id": "-MYaMmjuJWwmcJc1Wgdb",
@@ -108,32 +110,50 @@
   {
     "id": "-MYaMmjv4S5bp1YaD0ut",
     "literalTranslation": "Mountain race is nothing new to the antelope",
-    "text": "Ọsọ ugwu abụghị ihe ọhụrụ na ebe mgbada nọ"
+    "text": "Ọsọ ugwu abụghị ihe ọhụrụ na ebe mgbada nọ",
+    "meaning": "Difficult feats are easy to the skilled man. Practice makes difficult things easy"
   },
   {
     "id": "-MYaMmjxbpwcVT95nnWw",
-    "text": "Akwụnye anụ n'ọkụ, nwata ejee ozi esibeghị ya ezi"
+    "text": "Akwụnye anụ n'ọkụ, nwata ejee ozi esibeghị ya ezi",
+    "literalTranslation": "When they place a piece of meat on the fire, a child goes on an errand he has not yet been sent",
+    "meaning": "People become do their best when they forsee a future reward"
   },
   {
     "id": "-MYaMmjxbpwcVT95nnWx",
-    "text": "Edebeghi n'elu ụlọ maka oké, edebeghi na-ala maka ewu keduzi ebe aga edebezi"
+    "text": "Edebeghi n'elu ụlọ maka oké, edebeghi na-ala maka ewu keduzi ebe aga edebezi",
+    "literalTranslation": "Can't keep on a high place because of the rat. Can't keep on the ground because of the goat. Where would one now keep (foodstuff)?",
+    "meaning": "Life is full of challenges. You can't avoid risks in life"
   },
   {
     "id": "-MYaMmjzZJJtZYy_ZO5c",
-    "text": "Oke ji ọsọ na n'ọnụ agwọ bụ azụ ka ọga eji apụta"
+    "text": "Oke ji ọsọ na n'ọnụ agwọ bụ azụ ka ọga eji apụta",
+    "literalTranslation": "The rat which runs into a snake's hole with speed, would have to come out with backsteps (without turning)",
+    "meaning": "When you rush into a bad situation without forethought, you would then have to apply great care to get yourself out of it"
   },
-  { "id": "-MYaMmk-8Zk3NsuF9oge", "text": "Nkịta nyara akpa nsi agwụ na ọhịa" },
+  {
+    "id": "-MYaMmk-8Zk3NsuF9oge",
+    "text": "Nkịta nyara akpa nsi agwụ na ọhịa",
+    "literalTranslation": "When the dog carries a bad, the forest would be rid of excreta",
+    "meaning": "A good tool in the hand of a passionate/skillful person would only increase his efficiency"
+  },
   {
     "id": "-MYaMmk-8Zk3NsuF9ogf",
-    "text": "Onye nna ya dara ibi ihe ukwu adịghịzị atụ ya egwu"
+    "text": "Onye nna ya dara ibi ihe ukwu adịghịzị atụ ya egwu",
+    "literalTranslation": "The person whose father suffers an enlarged scrotum is no longer afraid of big things",
+    "meaning": "Tough situations make us tougher"
   },
   {
     "id": "-MYaMmk0Gyu7Gq8aglzm",
-    "text": "Ofeke mụta ịta atụ osisi dị na ọhịa agwụ"
+    "text": "Ofeke mụta ịta atụ osisi dị na ọhịa agwụ",
+    "literalTranslation": "When the foolish learns how to use the chewing stick, he breaks every twig in the forest",
+    "meaning": "Too much of anything is bad"
   },
   {
     "id": "-MYaMmk1Wbkc0ggwommr",
-    "text": "Emee onye ara conductor, ofegbuo onwe ya n'aka"
+    "text": "Emee onye ara conductor, ofegbuo onwe ya n'aka",
+    "literalTranslation": "When you make a mad man a conductor, he flings his hands to excess",
+    "meaning": "It is only a foolish person that does things to excess"
   },
   {
     "id": "-MYaMmk1Wbkc0ggwomms",
@@ -142,11 +162,15 @@
   { "id": "-MYaMmk2lIoKCGjkqTBX", "text": "Ọbụ ose ka-eji ata anụ rere ure" },
   {
     "id": "-MYaMmk3DRCT3TMDcWki",
-    "text": "Asogide onye anya, ekpuru nkata n'ihu gwa ya okwu"
+    "text": "Asogide onye anya, ekpuru nkata n'ihu gwa ya okwu",
+    "literalTranslation": "When a king is dreaded for too long, someone would wear a basket over his face and talk to the king",
+    "meaning": "The truth must be told, even if it means disguising the message to avoid self harm"
   },
   {
     "id": "-MYaMmk4yaVPMk0ZrMXX",
-    "text": "Ana ekwu na akpa ezighị ndị dibia ofeke ayara abụọ na akpagharị"
+    "text": "Ana ekwu na akpa ezighị ndị dibia ofeke ayara abụọ na akpagharị",
+    "literalTranslation": "While it is being said that bags are not enough for the native doctors, a foolish person is sighted walking about with 2 bags",
+    "meaning": "People who need something may lack it. While a clueless person has such coveted thing in excess"
   },
   {
     "id": "-MYaMmk4yaVPMk0ZrMXY",
@@ -162,7 +186,9 @@
   },
   {
     "id": "-MYaMmk5mMPOfbtMiwEp",
-    "text": "Ana agwa onye ibi ya amana aja, ọkwa ọmachaa ihe ọhụrụ o nwere"
+    "text": "Ana agwa onye ibi ya amana aja, ọkwa ọmachaa ihe ọhụrụ o nwere",
+    "literalTranslation": "Do you have to tell the man with an enlarged scrotum not to scale a fence? After he is done, he would realize what he has done to himself",
+    "meaning": "The obstinate is bound to learn from bad experience"
   },
   {
     "id": "-MYaMmk7fvzQWGDz3CvX",
@@ -171,13 +197,22 @@
   { "id": "-MYaMmk7fvzQWGDz3CvY", "text": "Amụ kelibe ọdị ka ọga agbawa ikpu" },
   {
     "id": "-MYaMmk7fvzQWGDz3CvZ",
-    "text": "Ọ bụghị ebe aka ewu zọrọ ka ụkwụ ya na azọ"
+    "text": "Ọ bụghị ebe aka ewu zọrọ ka ụkwụ ya na azọ",
+    "literalTranslation": "A walking goat's fore and hindlimbs do not step on the same spots",
+    "meaning": "Don't force followers/children/wards to behave exactly like yourself."
   },
   {
     "id": "-MYaMmk8s8DmtThoZ77u",
-    "text": "Ọbụ oke ịgba ajị n'ị́kè na ebulata nsị n'ụlọ"
+    "text": "Ọbụ oke ịgba ajị n'ị́kè na ebulata nsị n'ụlọ",
+    "literalTranslation": "Excessive anal hair is what brings home faeces (from the bush where one went to defecate)",
+    "meaning": "Too much of anything is bad"
   },
-  { "id": "-MYaMmk8s8DmtThoZ77v", "text": "Ọọ kwa uche ka eji agba adaka" },
+  {
+    "id": "-MYaMmk8s8DmtThoZ77v",
+    "text": "Ọọ kwa uche ka eji agba adaka",
+    "literalTranslation": "He who is shooting at a baboon has to be smart",
+    "meaning": "It takes smartness to deal with an equally smart person"
+  },
   { "id": "-MYaMmk8s8DmtThoZ77w", "text": "Mgbada yia ka ényí ike awara ya" },
   {
     "id": "-MYaMmk8s8DmtThoZ77x",
@@ -185,47 +220,68 @@
   },
   {
     "id": "-MYaMmk8s8DmtThoZ77y",
-    "text": "Ọkụkọ mmanya na egbu hụ égbé ara na agba isi ajụọ ya oyi"
+    "text": "Ọkụkọ mmanya na egbu hụ égbé ara na agba isi ajụọ ya oyi",
+    "literalTranslation": "When a drunk fowl meets a crazy kite, he calmly calms down",
+    "meaning": "Every obstinate person has someone or something he fears and respects"
   },
   {
     "id": "-MYaMmk9TOyhQAweXi1P",
-    "text": "Tụpụrụ nkịta ọkpụkpụ n'ezi hapụziere ya ọgụ ya na ndi mmụọ"
+    "text": "Tụpụrụ nkịta ọkpụkpụ n'ezi hapụziere ya ọgụ ya na ndi mmụọ",
+    "literalTranslation": "Throw out the bone to the dog, and forget about how he is going to wrestle with the spirits over it",
+    "meaning": "Do your part and leave the rest. Don't withold a good deed because you think other people will not make the best of it"
   },
   {
     "id": "-MYaMmkBcaK52fTNFLMq",
-    "text": "Ọtachara akị tufuo nkume, ocheere na akị agaghị agụzị ya ọzọ?"
+    "text": "Ọtachara akị tufuo nkume, ocheere na akị agaghị agụzị ya ọzọ?",
+    "literalTranslation": "He who throws away the stone after cracking kernels, does he think he would never get hungry again?",
+    "meaning": "Don't kill the goose that lays the golden eggs"
   },
   {
     "id": "-MYaMmkC4FNp0e5uNVGi",
-    "text": "Ihe na esi nkakwụ isi dị ya na ọkpụkpụ"
+    "text": "Ihe na esi nkakwụ isi dị ya na ọkpụkpụ",
+    "literalTranslation": "The source of the skunk's pungent smell is in his bones",
+    "meaning": "Used to imply that someone's bad behaviour is very unlikely to change"
   },
   {
     "id": "-MYaMmkEsCi8rvtPPwNI",
-    "text": "Ọgaranya jere mba anụ juru ala, wụ ndị ọna enye nyekwara ya"
+    "text": "Ọgaranya jere mba anụ juru ala, bụ ndị ọna enye nyekwara ya",
+    "literalTranslation": "The rich man who visits a land filled with animals (meat), is receiving a reward from those he has been benevolent to",
+    "meaning": "Charity attracts favour"
   },
   {
     "id": "-MYaMmkEsCi8rvtPPwNJ",
-    "text": "Atanị onye chọrọ ịja ya mma ya jaa ugbua anya ka doro ya. Makana égwú baa na nchịchịpụ anya onweghịzị onye ga ámá onye bụ onye"
+    "text": "Atanị onye chọrọ ịja ya mma ya jaa ugbua anya ka doro ya. Makana égwú baa na nchịchịpụ anya onweghịzị onye ga ámá onye bụ onye",
+    "literalTranslation": "",
+    "meaning": "Help someone when he is still lowly, and he will appreciate it; favours done for an influential person are non recognizable"
   },
   {
     "id": "-MYaMmkFh1XdmRHl2zJ9",
-    "text": "Onye chọọ ịma ọ́ya yara ènwè, ya ga lee atanị fụrụ ya ọkụ anya na anya ka ọhụ ka anya dị ya"
+    "text": "Onye chọọ ịma ọ́ya yara ènwè, ya ga lee atanị fụrụ ya ọkụ anya na anya ka ọhụ ka anya dị ya",
+    "literalTranslation": "He who wants to know the severity of the illness suffered by the monkey, should go and look at the eyes of the atani that blew the warming fire for it",
+    "meaning": "The magnitude of a problem is measured by the amount resources it took to solve it"
   },
   {
     "id": "-MYaMmkFh1XdmRHl2zJA",
-    "text": "Onye lewe anya na ...anya enwe jị dị na ọbá agwụ"
+    "text": "Onye lewe anya na ...anya enwe jị dị na ọbá agwụ",
+    "literalTranslation": ""
   },
   {
     "id": "-MYaMmkGTFkd62fAw5WL",
-    "text": "E nwere ilu ilu bie okwu, ofeke agbara aka laa"
+    "text": "E nwere ilu ilu bie okwu, ofeke agbara aka laa",
+    "literalTranslation": "when discussions are concluded in proverbs, the good-for-nothing goes home empty handed",
+    "meaning": ""
   },
   {
     "id": "-MYaMmkGTFkd62fAw5WM",
-    "text": "Esoro ụtọ ọgbọnọ arahụ n'ihu ukwu adọ"
+    "text": "Esoro ụtọ ọgbọnọ arahụ n'ihu ukwu adọ",
+    "literalTranslation": "Going by the sweetness of the ogbono, one may sleep under its tree",
+    "meaning": "Too much of everything is bad. There is time for everything. Used to end gatherings which have been interesting and people don't feel like leaving"
   },
   {
     "id": "-MYaMmkGTFkd62fAw5WN",
-    "text": "Anam emere onye isiukwu ebere, ọbụ mụ ga akwárá ya okpu"
+    "text": "Anam emere onye isiukwu ebere? ọbụ mụ ga akwárá ya okpu",
+    "literalTranslation": "Do I pity a bigheaded man? Am I the one to sew his cap?",
+    "meaning": "Mind your business"
   },
   {
     "id": "-MYaMmkHnWqzEaUqP7pm",
@@ -978,59 +1034,122 @@
   },
   {
     "id": "-MYaMmmENZfNjcmJd7pC",
-    "text": "Onye mara asụ, sụọ n'odo. Ma ị maghị asụ, sụo n'ala."
+    "text": "Onye mara asụ, sụọ n'odo. Ma ị maghị asụ, sụo n'ala.",
+    "literalTranslation": "He who knows how to pound, should pound in the mortar. He who doesn't, should pound on the floor",
+    "meaning": "Used after giving someone advice. Implies: if you are wise, you would know how to apply this advice. If you are foolish, you would only use it foolishly to no effect."
   },
   {
     "id": "-MYaMmmENZfNjcmJd7pD",
-    "text": "Agadị wekọtacha ọkazị ma gbajie mgbọrọgwụ ya, agụ biara n'afo nke mbụ ga-abịakwa ọzọ."
+    "text": "Agadị wekọtachaa ọkazị ma gbajie mgbọrọgwụ ya, agụụ biara n'afọ nke mbụ ga-abịakwa ọzọ.",
+    "literalTranslation": "When the old woman breaks the okazi root after plucking its leaves, then the hunger that visited her the previous year would repeat itself this year",
+    "meaning": "Learn from experience"
   },
   {
     "id": "-MYaMmmENZfNjcmJd7pE",
-    "text": "O nweghị onye na-ajụ ofe azụ juputere na ya."
+    "text": "O nweghị onye na-ajụ ofe azụ juputere na ya.",
+    "literalTranslation": "Nobody rejects a soup full of fish",
+    "meaning": "Nobody rejects a good thing"
   },
-  { "id": "-MYaMmmFZKHg_j7Kbi3t", "text": "Ihe oma na anya bu nwanne" },
+  {
+    "id": "-MYaMmmFZKHg_j7Kbi3t",
+    "text": "Ihe oma na anya bu nwanne",
+    "literalTranslation": "Good things and the eyes are siblings",
+    "meaning": "Everybody loves good things"
+  },
   {
     "id": "-MYaMmmFZKHg_j7Kbi3u",
-    "text": "Anaghi ahapu ebe ana echi ozo gawa ebe ana aru agwu"
+    "text": "Anaghi ahapu ebe ana echi ozo gawa ebe ana aru agwu",
+    "literalTranslation": "You don't leave a title taking ceremony to attend a ritual",
+    "meaning": "Nobody chooses suffering over enjoyment"
   },
   {
     "id": "-MYaMmmGS5IhKIvmfOW3",
-    "text": "Onye si na ya anaghi ata anu nkita, ya arakwala mmiri ofe ya."
+    "text": "Onye si na ya anaghi ata anu nkita, ya arakwala mmiri ofe ya.",
+    "literalTranslation": "He who does not eat dog meat should not also drink the sauce",
+    "meaning": "Don't be a hypocrite. Live by your principles"
   },
   {
     "id": "-MYaMmmGS5IhKIvmfOW4",
-    "text": "Okenye na anaghi anu __  ekwesighi iji eze ya ekere ya umuntakiri"
+    "text": "Okenye na anaghi ata anu nkita, ekwesighi iji eze ya ekere ya umuntakiri",
+    "literalTranslation": "The elder who does not eat dog meat should not use his teeth to cut it up for kids",
+    "meaning": "Don't be a hypocrite. Live by your principles"
   },
-  { "id": "-MYaMmmGS5IhKIvmfOW5", "text": "Ura ga-eju onye nwuru anwu afo" },
-  { "id": "-MYaMmmHgyn38LUdR6pT", "text": "Gidi gidi bụ ugwu eze" },
-  { "id": "-MYaMmmI9zjvIYOR54KF", "text": "Otu onye tuo izu, o gbue ochu" },
+  {
+    "id": "-MYaMmmGS5IhKIvmfOW5",
+    "text": "Ura ga-eju onye nwuru anwu afo",
+    "literalTranslation": "The dead shall be fed up with sleep",
+    "meaning": "The one in a haste to make a life-altering decision against advice, would have to live with it for a long time"
+  },
+  {
+    "id": "-MYaMmmHgyn38LUdR6pT",
+    "text": "Gidi gidi bụ ugwu eze",
+    "literalTranslation": ""
+  },
+  {
+    "id": "-MYaMmmI9zjvIYOR54KF",
+    "text": "Otu onye tuo izu, o gbue ochu",
+    "literalTranslation": "When one person makes a decision by himself, he can kill somebody",
+    "meaning": "Two heads are better than one"
+  },
   {
     "id": "-MYaMmmJOlKcwJrEMsHF",
-    "text": "Ihe ehi hụrụ gbalaba oso ka okuku huru na-atụ onu"
+    "text": "Ihe ehi hụrụ gbalaba oso ka okuku huru na-atụ onu",
+    "literalTranslation": "The thing that the cow saw and ran away, the cock saw it and continued picking for food",
+    "meaning": "Fools rush where angels fear to thread. Foolishness makes one ignorant of dangers"
   },
-  { "id": "-MYaMmmJOlKcwJrEMsHG", "text": "Oge adighi eche mmadu" },
-  { "id": "-MYaMmmJOlKcwJrEMsHH", "text": "E lewe ukwu Egbue ewu" },
-  { "id": "-MYaMmmLA0cHTInVzHNY", "text": "Ihe di woro ogori azuala na ahia" },
+  {
+    "id": "-MYaMmmJOlKcwJrEMsHG",
+    "text": "Oge adighi eche mmadu",
+    "literalTranslation": "Time waits for nobody",
+    "meaning": "Make judicious use of your time"
+  },
+  {
+    "id": "-MYaMmmJOlKcwJrEMsHH",
+    "text": "E lewe ukwu Egbue ewu",
+    "literalTranslation": "Looking at the female backside, one can kill a goat",
+    "meaning": ""
+  },
+  {
+    "id": "-MYaMmmLA0cHTInVzHNY",
+    "text": "Ihe di woro ogori azuala na ahia",
+    "literalTranslation": "The 'secret' a husband kept from his wife is now the talk of the market",
+    "meaning": ""
+  },
   {
     "id": "-MYaMmmLA0cHTInVzHNZ",
-    "text": "Ewu nwuru n'oba ji abughi agu gburu ya."
+    "text": "Ewu nwuru n'oba ji abughi agu gburu ya.",
+    "literalTranslation": "The goat that dies in a yam, was not killed by hunger",
+    "meaning": ""
   },
   {
     "id": "-MYaMmmLA0cHTInVzHN_",
-    "text": "Onye ma ka mmiri si were baa n'opi ugboguru?"
+    "text": "Onye ma ka mmiri si were baa n'opi ugboguru?",
+    "literalTranslation": "Who can tell how water entered inside the pumpkin?",
+    "meaning": ""
   },
   {
     "id": "-MYaMmmMDSDRHzd2yNR-",
-    "text": "A chuo aja ma a hughi udele, a mara na ihe mere be ndimmuo."
+    "text": "A chuo aja ma a hughi udele, a mara na ihe mere be ndimmuo.",
+    "literalTranslation": "When no vultures are seen after a sacrifice, you know that something has happened in the land of the spirits",
+    "meaning": ""
   },
-  { "id": "-MYaMmmMDSDRHzd2yNR0", "text": "Ugo chara acha adi(ghi) echu echu" },
+  {
+    "id": "-MYaMmmMDSDRHzd2yNR0",
+    "text": "Ugo chara acha adi(ghi) echu echu",
+    "literalTranslation": "A sparkling eagle does not fade",
+    "meaning": "Who God has blessed no man can curse"
+  },
   {
     "id": "-MYaMmmNXklLCwcu9nMf",
-    "text": "Onye ubiam ona aza \"Omeokachie\"?"
+    "text": "Onye ubiam ona aza \"Omeokachie\"?",
+    "literalTranslation": "Does a poor man take the title \"He who completes whatever he started\"?",
+    "meaning": ""
   },
   {
     "id": "-MYaMmmNXklLCwcu9nMg",
-    "text": "Mbe si na oru oha di mma, mana oriri oha na-aka ahu."
+    "text": "Mbe si na oru oha di mma, mana oriri oha na-aka ahu.",
+    "literalTranslation": "The tortoise said he likes it when the public comes to help him work, but feeding the public on the other hand, is stressful",
+    "meaning": "He who loves to be helped, should also love helping others"
   },
   {
     "id": "-MYaMmmOrwgqVDqzTeVW",
@@ -1052,7 +1171,7 @@
     "id": "-MYaMmmP8Fwqbd_0QSrR",
     "text": "O na-abu a si nwata wuba ahu, o saba afo ya.",
     "literalTranslation": "When a child is told to bath, he starts bathing his belly",
-    "meaning": "People can only do what they know of"
+    "meaning": "People can only do what they know about"
   },
   {
     "id": "-MYaMmmP8Fwqbd_0QSrS",
@@ -1260,7 +1379,7 @@
   },
   {
     "id": "-MYaMmmfznyS7WDH5aj4",
-    "text": "Kama mmanya ga esetara enyi na abọ okwu ka ite mmanya a hu, kọwa na ụzọ.",
+    "text": "Kama mmanya ga esetara enyi na abọ okwu ka ite mmanya a hu, kuwa na ụzọ.",
     "literalTranslation": "It is preferable that the wine pot rather break on the way, rather than the wine becoming an object of strife between",
     "meaning": "Better a 'good thing' be lost than that it causes division between brothers or friends"
   },
@@ -1428,7 +1547,7 @@
     "id": "-MYaMmmr4PZQ07eMonnF",
     "text": "Onye amuma anaghi enwe ugwu na ala nna ya.",
     "literalTranslation": "A prophet has no respect in his home town",
-    "meaning": "We don't what we have"
+    "meaning": "We don't value what we have"
   },
   {
     "id": "-MYaMmmvT11oDAbTkosT",
@@ -1633,5 +1752,29 @@
     "text": "Akpaa akpaa arahụ n'ute",
     "literalTranslation": "When proper dialogue is done, they can sleep on the mat",
     "meaning": "dialogue makes for peaceful co-existence"
+  },
+  {
+    "text": "Ka ana aga n'ubi, ka ji na aka",
+    "literalTranslation": "Let's keep going to the farm, and let the yam keep getting stronger",
+    "meaning": "keep on keeping on"
+  },
+  {
+    "text": "achuwa ehi zogbuo mmadu, ahapugodi ehi",
+    "literalTranslation": "While chasing after a cow, if a man dies of stampede, then the cow is left alone for the moment",
+    "meaning": "Some things are more important than others. Weightier matters command attention"
+  },
+  {
+    "text": "Otu aka anaghi eke ngwungwu",
+    "literalTranslation": "One hand does not tie a parcel",
+    "meaning": "We all need a good support system"
+  },
+  {
+    "text": "Anaghi ahapu isiaka jee gwawa uriom",
+    "meaning": "You don't leave what is important to indulge less important tasks"
+  },
+  {
+    "text": "Atuolu omalu, omalu. Atuolu ofeke, ofenye ishi na ohia",
+    "literalTranslation": "When you advice the wise, he learns. When you advice the foolish, he runs headwards into the bush",
+    "meaning": "A wise person learns from advice, a foolish person gets worse after being advised"
   }
 ]
