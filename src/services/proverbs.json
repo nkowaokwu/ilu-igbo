@@ -928,7 +928,7 @@
   },
   {
     "id": "-MYaMmlyrkdRB-k1MH-O",
-    "text": "ebe nwata kotere ejuna ona agafe ebe ahu anya ga adi ya nko (sideways . towards the place. o nwere ike oburuzie agwu maobi akpi nozie ebe ahu)"
+    "text": "ebe nwata kotere ejuna, ona agafe ebe ahu, anya ga adi ya nko (sideways . towards the place. o nwere ike oburuzie agwu maobi akpi nozie ebe ahu)"
   },
   {
     "id": "-MYaMmlz8pqI0RULKFkf",
@@ -940,32 +940,64 @@
   },
   {
     "id": "-MYaMmm0WlrDllF6DE9j",
-    "text": "Otu onye siere igwe mmadụ nri, ọha ga-ericha nri ahụ mana igwe mmadụ siere otu onye nri, ọ gaghị erichanwu ya."
+    "text": "Otu onye siere igwe mmadụ nri, ọha ga-ericha nri ahụ mana igwe mmadụ siere otu onye nri, ọ gaghị erichanwu ya.",
+    "literalTranslation": "When one person cooks for the public, they finish it. But when the public cooks for an individual, he can't finish it",
+    "meaning": "One person cannot be stronger than the public"
   },
-  { "id": "-MYaMmm0WlrDllF6DE9k", "text": "Otu aka rụta mmanụ, o jezuo ọha" },
+  {
+    "id": "-MYaMmm0WlrDllF6DE9k",
+    "text": "Otu aka rụta mmanụ, o jezuo ọha",
+    "literalTranslation": "When one finger touches oil, it spreads to the rest",
+    "meaning": "One person's bad behaviour can result to misfortune of his friends/colleagues"
+  },
   {
     "id": "-MYaMmm1r8yZmFBOTaIH",
-    "text": "Onye kpatara nkụ ahụhụ si ngwere bịara ya ọrụ."
+    "text": "Onye kpatara nkụ ahụhụ si ngwere bịara ya ọrụ.",
+    "literalTranslation": "He who brought ant infested firewood is inviting lizard to come work for him",
+    "meaning": "Every action has consequences"
   },
   {
     "id": "-MYaMmm1r8yZmFBOTaII",
-    "text": "Agadị anaghị aka nka n'egwu o ma-agba"
+    "text": "Agadi anaghị aka nka n'egwu o ma-agba",
+    "literalTranslation": "An old woman does not get too old for a music she knows how to dance",
+    "meaning": ""
   },
-  { "id": "-MYaMmm1r8yZmFBOTaIJ", "text": "Ikwo aka tiri ọkụkọ akị" },
-  { "id": "-MYaMmm1r8yZmFBOTaIK", "text": "Onye gba bọọlụ, ọ racha oroma" },
+  {
+    "id": "-MYaMmm1r8yZmFBOTaIJ",
+    "text": "Ikwo aka tiri ọkụkọ akị",
+    "literalTranslation": "To wash hands only to crack nuts for the cock",
+    "meaning": "To engage in a futile endeavour"
+  },
+  {
+    "id": "-MYaMmm1r8yZmFBOTaIK",
+    "text": "Onye gba bọọlụ, ọ racha oroma",
+    "literalTranslation": "Only those who played football would eat oranges",
+    "meaning": "No pain no gain chai odid ewhg jkkam gwa gi ofu ihe doro anya. Anyi niile agaghi adacha mba na ura"
+  },
   {
     "id": "-MYaMmm3Io8iCiY-5tes",
-    "text": "Onye buru chi ya uzo, o gbagbue onwe ya n'oso"
+    "text": "Onye buru chi ya uzo, o gbagbue onwe ya n'oso",
+    "literalTranslation": "He who goes ahead of his 'chi', would run to death",
+    "meaning": "Don't be in excessive haste to achieve"
   },
   {
     "id": "-MYaMmm3Io8iCiY-5tet",
-    "text": "Ọkụkọ na-edowe ahụ na ara na-ayị ya ahụbeghị nkịta mmanya na-egbu"
+    "text": "Ọkụkọ na-edowe ahụ na ara na-ayị ya ahụbeghị nkịta mmanya na-egbu",
+    "literalTranslation": "The cock acting mad has not met a drunk dog",
+    "meaning": "Every obstinate person has someone he fears"
   },
   {
     "id": "-MYaMmm3Io8iCiY-5tev",
-    "text": "Aka nri kwọọ aka ekpe, aka ekpe akwọọ aka nri"
+    "text": "Aka nri kwọọ aka ekpe, aka ekpe akwọọ aka nri",
+    "literalTranslation": "When the right hand washes the left, the left reciprocates the gesture",
+    "meaning": "What goes around comes around"
   },
-  { "id": "-MYaMmm4MN6Cq_F0sbDF", "text": "Ogologo abụghị na nwam etola" },
+  {
+    "id": "-MYaMmm4MN6Cq_F0sbDF",
+    "text": "Ogologo abụghị na nwam etola",
+    "literalTranslation": "Growing tall does not mean that my child has grown up",
+    "meaning": "Maturity is a thing of the mind"
+  },
   {
     "id": "-MYaMmm5uKc0T4-KvTAy",
     "text": "Agwọ emeghị nke o jiri buru agwọ, ụmụaka a chiri ya hie nkụ",
@@ -1114,7 +1146,7 @@
   },
   {
     "id": "-MYaMmmENZfNjcmJd7pD",
-    "text": "Agadị wekọtachaa ọkazị ma gbajie mgbọrọgwụ ya, agụụ biara n'afọ nke mbụ ga-abịakwa ọzọ.",
+    "text": "Agadi wekọtachaa ọkazị ma gbajie mgbọrọgwụ ya, agụụ biara n'afọ nke mbụ ga-abịakwa ọzọ.",
     "literalTranslation": "When the old woman breaks the okazi root after plucking its leaves, then the hunger that visited her the previous year would repeat itself this year",
     "meaning": "Learn from experience"
   },
