@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,900;1,100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100&display=swap");
 * {
   /* affect every damn element */
   font-family: roboto;
@@ -7,4 +7,14 @@
 :root {
   /* can root. Can easily be overriden */
   color: #3e3e3e;
+}
+
+button.fab {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+}
+
+input[id="audio"] {
+  margin-top: 1rem;
 }

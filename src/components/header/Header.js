@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
 import { useRef } from "react";
 
-export function Header({ onSearch, isSearching }) {
+export function Header({ onSearch, isSearching, count }) {
   const searchInput = useRef();
 
   const handleSearch = (event) => {
@@ -21,9 +21,12 @@ export function Header({ onSearch, isSearching }) {
         onSubmit={handleSearch}
       >
         <p className="text-center small">
-          Collection of over <span className="font-weight-bold">1000</span> Igbo
-          proverbs. Searchable by topics or constituent words in both Igbo and
-          English
+          Collection of over{" "}
+          <span className="font-weight-bold">
+            {count || <FontAwesomeIcon icon={faSpinner} spin />}
+          </span>{" "}
+          Igbo proverbs. Searchable by topics or constituent words in both Igbo
+          and English
         </p>
         <div className="input-group">
           <input

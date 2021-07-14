@@ -289,56 +289,85 @@
   },
   {
     "id": "-MYaMmkHnWqzEaUqP7pn",
-    "text": "Mgbe amụrụ dike na mba ka amụrụ ibe ya"
+    "text": "Mgbe amụrụ dike na mba ka amụrụ ibe ya",
+    "literalTranslation": "The day the warrior was born in a land, another warrior was also born in another land",
+    "meaning": "No one is without equal"
   },
   {
     "id": "-MYaMmkIZuLZc8Re7qfx",
-    "text": "Mgbe nne amụbeghị ọchịagha ọkwa ndị ọgụ na agarị"
+    "text": "Mgbe nne amụbeghị ọchịagha ọkwa ndị ọgụ na agarị?",
+    "literalTranslation": "When the warlord was not yet born, people still went to wars, didn't they?",
+    "meaning": "No one is indispensible"
   },
   {
     "id": "-MYaMmkJz6QjX23pdALa",
-    "text": "Ọkụ m jị hụnye jị kam ma, nke na agba achara na agụ ka mụ amaghị"
+    "text": "Ọkụ m jị hụnye jị kam ma, nke na agba achara na agụ ka mụ amaghị",
+    "literalTranslation": "The fire I set to roast yam is what I know, the one burning bamboo in the bush I know nothing about",
+    "meaning": "I am responsible for what I do or say, and not what others make of it"
   },
   {
     "id": "-MYaMmkKtqXAyTBYHepA",
-    "text": "Mbe na mbe gaa ahịa, uru anaghị adị ya"
+    "text": "Mbe na mbe gaa ahịa, uru anaghị adị ya",
+    "literalTranslation": "When two tortoises transact a business, both of them lose",
+    "meaning": "Too much is self detrimental"
   },
   {
     "id": "-MYaMmkKtqXAyTBYHepB",
-    "text": "Nwa ọkụkọ gbaa olu nne ya ahapụ ya"
+    "text": "Nwa ọkụkọ gbaa olu nne ya ahapụ ya",
+    "literalTranslation": "When a chick gets too headstrong, the mother hen lets her alone",
+    "meaning": "Obstinacy can only drive away people who would have protected us"
   },
-  { "id": "-MYaMmkLePi18Nqzcoku", "text": "Anya mmiri okenye na acha nzu nzu" },
+  {
+    "id": "-MYaMmkLePi18Nqzcoku",
+    "text": "Anya mmiri okenye na acha nzu nzu",
+    "literalTranslation": "The tears of an elder are chalky(white) in colour",
+    "meaning": "Do not move an elder to grief, because their groaning is potent. In Igbo cosmology chalk signifies purity and used for efficacious prayer"
+  },
   {
     "id": "-MYaMmkLePi18Nqzcokv",
-    "text": "Ahụghị nwoke na ubi, ayọọ nwanyị ji"
+    "text": "Ahụghị nwoke na ubi, ayọọ nwanyị ji",
+    "literalTranslation": "When you see no man in the farm, you'd beg a woman for yam",
+    "meaning": "Whent the desirable is not available, the available becomes desirable"
   },
   {
     "id": "-MYaMmkLePi18Nqzcokw",
-    "text": "Nwata hụkaria onyị nne ya, o gbuo ya mma ekwu"
+    "text": "Nwata hụkaria onyị nne ya, o gbuo ya mma ekwu",
+    "literalTranslation": "When a child sees his mother's lover too often, he'd attack him with a kitchen knife",
+    "meaning": "Familiarity breeds contempt"
   },
   {
     "id": "-MYaMmkMrh5UO1ma96y8",
-    "text": "Ejide ibe ji na aka, asaa agụụ okwu"
+    "text": "Ejide ibe ji na aka, asaa agụụ okwu",
+    "literalTranslation": "When you have a piece of yam in your hands, you can then reply hunger",
+    "meaning": "Challenges can only be effectively attacked when you have the resources you will need"
   },
   {
     "id": "-MYaMmkMrh5UO1ma96y9",
-    "text": "Nwanza sịrị sị gbawara ya afa ndụ, ma ọ bụrụ maka uto, onye ọbụla dị ndụ ga etoriri eto"
+    "text": "Nwanza sịrị sị gbawara ya afa ndụ, ma ọ bụrụ maka uto, onye ọbụla dị ndụ ga etoriri eto",
+    "literalTranslation": "The sparrow said people should only pray for it to live longer. As for growth, he opined that anyone alive would definitely grow",
+    "meaning": "Prioritize your needs"
   },
   {
     "id": "-MYaMmkMrh5UO1ma96yA",
-    "text": "Ọbụrụ na ọnwụ egbughị ji e jiri chụọ emechaa ọ ga epuriri ome"
+    "text": "Ọbụrụ na ọnwụ egbughị ji e jiri chụọ emechaa ọ ga epuriri ome",
+    "literalTranslation": "If the yam used for sacrifice does not die, it will eventually germinate some day"
   },
   {
     "id": "-MYaMmkNBLu-QW4g7lGJ",
-    "text": "Ihe ọ masịrị ọkụkọ daa oké ọnụ ahịa, agaghị nwa nnụnụ achụ aja"
+    "text": "Ihe ọ masịrị ọkụkọ daa oké ọnụ ahịa, agaghị nwa nnụnụ achụ aja",
+    "literalTranslation": "No matter how costly the chicken, they would never use a bird for sacrifice"
   },
   {
     "id": "-MYaMmkNBLu-QW4g7lGK",
-    "text": "Ebee ka egbugbere ọnụ jere mmiri ji ama eze"
+    "text": "Ebee ka egbugbere ọnụ jere mmiri ji ama eze",
+    "literalTranslation": "Where did the lips go to, that they teeth is being beat by the rain",
+    "meaning": "Take care of your responsibilities"
   },
   {
     "id": "-MYaMmkNBLu-QW4g7lGL",
-    "text": "Mgbe ụtaba apụtebee o nwere onye azụzụ gburu"
+    "text": "Mgbe ụtaba apụtebee o nwere onye azụzụ gburu?",
+    "literalTranslation": "When the snuff had not yet existed, did catarrh kill anyone?",
+    "meaning": "Nothing is indispensible"
   },
   {
     "id": "-MYaMmkOZWiqoTPhqKxj",
@@ -455,7 +484,7 @@
     "text": "Ogazi amaka mana ejighi ya ago mmuo"
   },
   {
-    "id": "-MYaMmkhEf-e_xiZXtRD",
+    "*id": "-MYaMmkhEf-e_xiZXtRD",
     "text": "Udele buru anu oriri, onye isi ututu agaghi ahu ya. (If vultures had any value, even the early morning hunters won't be able to see it)"
   },
   {
@@ -578,7 +607,7 @@
   },
   {
     "id": "-MYaMml7wUYRsR3kqlvb",
-    "text": "Asị onye oshi jide ọkụkọ, ọsị na ọna atụ ya egwu. Atụgharia ọ kpụrụ ehi"
+    "text": "Asị onye oshi jide ọkụkọ, ọsị na ọna atụ ya egwu. A tụgharịa azụ, ọ kpụrụ ehi"
   },
   {
     "id": "-MYaMml7wUYRsR3kqlvc",
@@ -920,11 +949,15 @@
   },
   {
     "id": "-MYaMmlwUyNstg5BuoZ-",
-    "text": "ndu dị na ntị (there's life in hearing)"
+    "text": "ndu dị na ntị",
+    "literalTranslation": "There is life in the ear",
+    "meaning": "It's very good to listen to advice"
   },
   {
     "id": "-MYaMmlxWk9qEQJ0eMbE",
-    "text": "kama ehim ga agbanarim,  m gbubiri ya ọdụdụ"
+    "text": "kama ehim ga agbanarim,  m gbubiri ya ọdụdụ",
+    "literalTranslation": "Rather than have my cow run away intoto, I'd cut out its tail",
+    "meaning": "Half bread is better than none"
   },
   {
     "id": "-MYaMmlyrkdRB-k1MH-O",
@@ -936,7 +969,8 @@
   },
   {
     "id": "-MYaMmm-j2O0qAwFrhR8",
-    "text": "Nwaanyị makarịa di ya n'uzọ, ihe chere di ya, ewere ya"
+    "text": "Nwaanyị makarịa di ya n'uzọ, ihe chere di ya, ewere ya",
+    "literalTranslation": ""
   },
   {
     "id": "-MYaMmm0WlrDllF6DE9j",
@@ -1900,12 +1934,46 @@
   },
   {
     "text": "Ikwu amaghi, ibe ezi ya",
-    "literalTranslation": "What a relation does not know, a mate shows him",
-    "meaning": ""
+    "literalTranslation": "When a relation is ignorant, an agemate shows (teaches) him",
+    "meaning": "No one is a compendium of knowledge. We learn from others"
   },
   {
     "text": "Oji ofo ga ana",
     "literalTranslation": "He who has the ofo (symbol of uprightness) shall go scot free",
     "meaning": "He righteous shall always triumph over any evil situation"
+  },
+  {
+    "text": "Ihe nwoke zogidere ahu mkpuru amu ya, si hapuru ya",
+    "literalTranslation": "Whatever a man is fighting for that led to people seeing his balls, should please be left for him"
+  },
+  {
+    "text": "Mụ bụ ịba anaghị ala nzuzo",
+    "literalTranslation": "I, agama lizard, don’t mate in secret",
+    "meaning": "Live an open life and not that of hide and seek"
+  },
+  {
+    "text": "Onye no mmadu nso na anu isi onu ya",
+    "literalTranslation": "It is he who is close to someone that can perceive the smell of his mouth",
+    "meaning": ""
+  },
+  {
+    "text": "Mma niile ga-aga n'uzu",
+    "literalTranslation": "All knives will end up at the blacksmith's",
+    "meaning": "Don't rejoice at the misfortune of others. Especially when everyone is prone to suffer same some day"
+  },
+  {
+    "text": "E chinya mmanya ma akpatụghị ya aka, ọ bụrụ nchitọba"
+  },
+  {
+    "text": "Ọbụrụ na a chuo ma e nwudeghi, a ga-arahuzi n'agu?"
+  },
+  {
+    "text": "Aka mkpumkpu adighi ekwe mbe enweta ihe di n'uko"
+  },
+  {
+    "text": "Nwa na-atu egwu ida ada, adighi aga ije n'oge"
+  },
+  {
+    "text": "Nkita siri na ihe mere ya ji eso onye afo ukwu bu na ma o nyughi anyu, o gboo agbo"
   }
 ]
