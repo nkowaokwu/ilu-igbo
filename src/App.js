@@ -50,72 +50,78 @@ function App() {
   return (
     <div className="App">
       <ThemeProvider theme={theme}>
-        <Header
-          onSearch={(q) => setQuery(q)}
-          searching={isSearching}
-          count={proverbs?.length}
-        />
-        <Proverbs proverbs={proverbs} />
-        <Fab onClick={handleDialogOpen} color="primary" className="fab">
-          <FontAwesomeIcon icon={faPlus} />
-        </Fab>
-        <Footer />
+        <div className="d-flex flex-column min-vh-100">
+          <Header
+            onSearch={(q) => setQuery(q)}
+            searching={isSearching}
+            count={proverbs?.length}
+          />
+          <Proverbs proverbs={proverbs} className="flex-grow-1" />
+          <Fab onClick={handleDialogOpen} color="primary" className="fab">
+            <FontAwesomeIcon icon={faPlus} />
+          </Fab>
+          <Footer />
 
-        {/* add-new-proverb form dialog */}
-        <Dialog
-          open={addDialogOpen}
-          onClose={handleDialogClose}
-          aria-labelledby="form-dialog-title"
-        >
-          <DialogTitle id="add-form-dialog-title">Add New Proverb</DialogTitle>
-          <DialogContent>
-            <DialogContentText>fields marked * are required</DialogContentText>
-            <TextField
-              autoFocus
-              margin="dense"
-              id="text"
-              label="proverb in igbo"
-              type="text"
-              fullWidth
-              required
-            />
-            <TextField
-              margin="dense"
-              id="literalTranslation"
-              label="literal translation"
-              type="text"
-              fullWidth
-              required
-            />
-            <TextField
-              margin="dense"
-              id="meaning"
-              label="actual meaning"
-              type="text"
-              fullWidth
-              required
-            />
-            <TextField
-              margin="dense"
-              id="moreInfo"
-              label="more information: examples, background etc..."
-              type="text"
-              fullWidth
-            />
-            {/* TODO accept only audio files */}
-            <Input
-              margin="dense"
-              id="audio"
-              label="audio file"
-              type="file"
-              fullWidth
-            />
-          </DialogContent>
-          <DialogActions>
-            <Button onClick={handleDialogClose}>Cancel</Button>
-            <Button onClick={handleAddProverb}>Submit</Button>
-          </DialogActions>
-        </Dialog>
+          {/* add-new-proverb form dialog */}
+          <Dialog
+            open={addDialogOpen}
+            onClose={handleDialogClose}
+            aria-labelledby="form-dialog-title"
+          >
+            <DialogTitle id="add-form-dialog-title">
+              Add New Proverb
+            </DialogTitle>
+            <DialogContent>
+              <DialogContentText>
+                fields marked * are required
+              </DialogContentText>
+              <TextField
+                autoFocus
+                margin="dense"
+                id="text"
+                label="proverb in igbo"
+                type="text"
+                fullWidth
+                required
+              />
+              <TextField
+                margin="dense"
+                id="literalTranslation"
+                label="literal translation"
+                type="text"
+                fullWidth
+                required
+              />
+              <TextField
+                margin="dense"
+                id="meaning"
+                label="actual meaning"
+                type="text"
+                fullWidth
+                required
+              />
+              <TextField
+                margin="dense"
+                id="moreInfo"
+                label="more information: examples, background etc..."
+                type="text"
+                fullWidth
+              />
+              {/* TODO accept only audio files */}
+              <Input
+                margin="dense"
+                id="audio"
+                label="audio file"
+                type="file"
+                fullWidth
+              />
+            </DialogContent>
+            <DialogActions>
+              <Button onClick={handleDialogClose}>Cancel</Button>
+              <Button onClick={handleAddProverb}>Submit</Button>
+            </DialogActions>
+          </Dialog>
+        </div>
       </ThemeProvider>
     </div>
   );
