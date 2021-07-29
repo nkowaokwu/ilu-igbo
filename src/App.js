@@ -13,6 +13,7 @@ function App() {
   const [query, setQuery] = useState();
   const [proverbs, setProverbs] = useState([]);
   const [addDialogOpen, setAddDialogOpen] = useState(false);
+  const [isCreating, setCreating] = useState(false);
 
   useEffect(() => {
     api.initializeFirebase();
@@ -32,9 +33,14 @@ function App() {
     setAddDialogOpen(false);
   }
 
-  function handleAddProverb() {
-    console.log("tried adding proverb");
-    handleDialogClose();
+  function handleProverbCreateEnd(res) {
+    setCreating(false);
+    console.log("response from proverb create:", res);
+  }
+
+  function handleAddProverb(prov) {
+    console.log("tried adding proverb", prov);
+    api.createProverb(prov, handleProverbCreateEnd);
   }
 
   return (

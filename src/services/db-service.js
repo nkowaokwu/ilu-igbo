@@ -4,18 +4,21 @@ import { normalizedContains } from "./helpers";
 
 let db;
 let allProverbs;
+let allTags;
 
 export function initializeFirebase() {
-  firebase.initializeApp({
-    apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-    authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-    databaseURL: process.env.REACT_APP_FIREBASE_DATABASE_URL,
-    projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
-    storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
-    appId: process.env.REACT_APP_FIREBASE_APP_ID,
-    measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
-  });
+  if (!firebase.apps.length) {
+    firebase.initializeApp({
+      apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+      authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+      databaseURL: process.env.REACT_APP_FIREBASE_DATABASE_URL,
+      projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+      storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+      messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
+      appId: process.env.REACT_APP_FIREBASE_APP_ID,
+      measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
+    });
+  }
   db = firebase.database();
 }
 
@@ -39,6 +42,7 @@ export function createProverb(payload, done) {
   if (payload.tags && Array.isArray(payload.tags)) {
     payload.tags.forEach((tag) => {
       updates["/tags/" + tag + "/proverbs/" + newPostKey] = true;
+      updates["tag-names/" + tag] = true;
     });
   }
 
@@ -72,4 +76,28 @@ export function batchUpload(provArray, done) {
       done();
     })
     .catch(console.error);
+}
+
+// Tags endpoints
+export function fetchTags(done) {
+  db.ref("tag-names").on("value", (data) => {
+    console.log("got value:", data);
+    console.log("data value:", data.val());
+    allTags = Object.keys(data.val());
+    console.log("allTags:", allTags);
+    done(allTags);
+  });
+}
+
+export function queryTags(query) {
+  if (!query) return allTags;
+
+  const keyWords = query.split(/\s/).filter((w) => w !== "");
+
+  return allTags.filter((tag) => {
+    const isMatch = keyWords.some((word) => {
+      return tag.text === String.prototype.trim(word);
+    });
+    return isMatch;
+  });
 }
