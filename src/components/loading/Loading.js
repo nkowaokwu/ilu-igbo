@@ -5,7 +5,7 @@ import "./Loading.css";
 export function Loading() {
   return (
     <div className="wrapper">
-      <FontAwesomeIcon icon={faSpinner} spin size="large" />
+      <FontAwesomeIcon icon={faSpinner} spin size="lg" />
     </div>
   );
 }
