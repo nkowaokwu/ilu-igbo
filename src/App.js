@@ -14,6 +14,7 @@ function App() {
   const [proverbs, setProverbs] = useState([]);
   const [addDialogOpen, setAddDialogOpen] = useState(false);
   const [isCreating, setCreating] = useState(false);
+  const [isCreated, setCreated] = useState(false);
 
   useEffect(() => {
     api.initializeFirebase();
@@ -35,11 +36,12 @@ function App() {
 
   function handleProverbCreateEnd(res) {
     setCreating(false);
-    console.log("response from proverb create:", res);
+    setCreated(true);
   }
 
   function handleAddProverb(prov) {
-    console.log("tried adding proverb", prov);
+    console.log("about to create new proverb:", prov);
+    setCreating(true);
     api.createProverb(prov, handleProverbCreateEnd);
   }
 
@@ -63,6 +65,9 @@ function App() {
             handleSubmit={handleAddProverb}
             handleClose={handleDialogClose}
             isOpen={addDialogOpen}
+            isCreating={isCreating}
+            isCreated={isCreated}
+            setCreated={setCreated}
           ></ProverbAddFormDialog>
         </div>
       </ThemeProvider>
