@@ -72,10 +72,13 @@ export function queryProverbs(query) {
 export function batchUpload(provArray, done) {
   Promise.all(provArray.map((p) => createProverb(p)))
     .then((res) => {
-      console.log();
+      console.log("response from batch upload:", res);
       done();
     })
-    .catch(console.error);
+    .catch((e) => {
+      console.error("error from batch upload:", e);
+      done(e);
+    });
 }
 
 // Tags endpoints
