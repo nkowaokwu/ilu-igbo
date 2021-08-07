@@ -2,6 +2,7 @@ import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
 import { useRef } from "react";
+import { Link } from "react-router-dom";
 
 export function Header({ onSearch, isSearching, count }) {
   const searchInput = useRef();
@@ -14,7 +15,9 @@ export function Header({ onSearch, isSearching, count }) {
 
   return (
     <header className="container flex-column align-items-center">
-      <h1 className="text-primary mb-0 title">#ILUIGBO</h1>
+      <h1 className="text-primary mb-0 title">
+        <Link to="/">#ILUIGBO</Link>
+      </h1>
       <p className="small slogan">mmanụ ndị Igbo ji eri okwu</p>
       <form
         className="search-form form-group col-sm-6 ml-auto mr-auto"
