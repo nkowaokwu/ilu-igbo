@@ -1944,7 +1944,8 @@
   },
   {
     "text": "Ihe nwoke zogidere ahu mkpuru amu ya, si hapuru ya",
-    "literalTranslation": "Whatever a man is fighting for that led to people seeing his balls, should please be left for him"
+    "literalTranslation": "Whatever a man is fighting for that led to people seeing his balls, should please be left for him",
+    "meaning": "The ruthless man achieves what he pursues"
   },
   {
     "text": "Mụ bụ ịba anaghị ala nzuzo",
@@ -1976,5 +1977,15 @@
   {
     "text": "Nkita siri na ihe mere ya ji eso onye afo ukwu bu na ma o nyughi anyu, o gboo agbo"
   },
-  { "text": "Ijuta isi nkita, iji agba ya eme gini?" }
+  { "text": "Ijuta isi nkita, iji agba ya eme gini?" },
+  {
+    "text": "Aku na-etigbu iro",
+    "literalTranslation": "Wealth beats animosity to death",
+    "meaning": "Money can buy over your enemies to become friends"
+  },
+  {
+    "text": "Onye ajuju anaghi efu uzo",
+    "literalTranslation": "The inquisitive person never misses his way",
+    "meaning": "Don't be a know-it-all"
+  }
 ]
