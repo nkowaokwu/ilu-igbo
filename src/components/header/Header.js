@@ -1,16 +1,21 @@
-import "./Header.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faSpinner } from "@fortawesome/free-solid-svg-icons";
-import { useRef } from "react";
-import { Link } from "react-router-dom";
+import './Header.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faSpinner, faTimes } from '@fortawesome/free-solid-svg-icons';
+import { useRef } from 'react';
+import { Link } from 'react-router-dom';
+import { Chip } from '@material-ui/core';
 
-export function Header({ onSearch, isSearching, count }) {
+export function Header({ onSearch, isSearching, count, totalCount, query }) {
   const searchInput = useRef();
 
   const handleSearch = (event) => {
     event.preventDefault();
-    console.log("form submit. Search ref:", searchInput.current.value);
     onSearch(searchInput.current.value);
+  };
+
+  const handleClear = (event) => {
+    searchInput.current.value = '';
+    onSearch();
   };
 
   return (
@@ -24,10 +29,10 @@ export function Header({ onSearch, isSearching, count }) {
         onSubmit={handleSearch}
       >
         <p className="text-center small">
-          Collection of over{" "}
+          Collection of over{' '}
           <span className="font-weight-bold">
-            {count || <FontAwesomeIcon icon={faSpinner} spin />}
-          </span>{" "}
+            {totalCount || <FontAwesomeIcon icon={faSpinner} spin />}
+          </span>{' '}
           Igbo proverbs. Searchable by topics or constituent words in both Igbo
           and English
         </p>
@@ -36,8 +41,9 @@ export function Header({ onSearch, isSearching, count }) {
             className="form-control"
             id="search"
             aria-label="search form"
-            placeholder="e.g. humility, leopard or nwata"
+            placeholder="e.g. nkita, tortoise or nwata"
             ref={searchInput}
+            onChange={handleSearch}
           />
           <div className="input-group-append">
             <button
@@ -46,10 +52,23 @@ export function Header({ onSearch, isSearching, count }) {
               disabled={isSearching}
             >
               {isSearching && <FontAwesomeIcon icon={faSpinner} spin />}
-              {isSearching ? " Searching..." : "Search"}
+              {isSearching ? ' Searching...' : 'Search'}
             </button>
           </div>
         </div>
+        {query && (
+          <p className="text-center small my-3">
+            <span className="font-weight-bold">
+              {count || <FontAwesomeIcon icon={faSpinner} spin />}
+            </span>{' '}
+            proverbs found{' '}
+            <Chip
+              icon={<FontAwesomeIcon icon={faTimes} />}
+              label=" Clear Search"
+              onClick={handleClear}
+            />
+          </p>
+        )}
       </form>
     </header>
   );
