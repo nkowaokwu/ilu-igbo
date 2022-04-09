@@ -17,10 +17,15 @@ function App() {
   const [addDialogOpen, setAddDialogOpen] = useState(false);
   const [isCreating, setCreating] = useState(false);
   const [isCreated, setCreated] = useState(false);
+  const [totalCount, setTotalCount] = useState(0);
 
   useEffect(() => {
     api.initializeFirebase();
-    api.fetchProverbs(() => setProverbs(api.queryProverbs()));
+    api.fetchProverbs(() => {
+      const proverbs = api.queryProverbs()
+      setProverbs(proverbs);
+      setTotalCount(proverbs.length);
+    });
   }, []);
 
   useEffect(() => {
@@ -56,6 +61,9 @@ function App() {
               onSearch={(q) => setQuery(q)}
               searching={isSearching}
               count={proverbs?.length}
+              totalCount={totalCount}
+              setQuery={setQuery}
+              query={query}
             />
 
             <main className="flex-grow-1">
