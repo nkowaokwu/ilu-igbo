@@ -2,8 +2,9 @@ import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
 import { useRef } from "react";
+import { Link } from "react-router-dom";
 
-export function Header({ onSearch, isSearching }) {
+export function Header({ onSearch, isSearching, count }) {
   const searchInput = useRef();
 
   const handleSearch = (event) => {
@@ -14,16 +15,21 @@ export function Header({ onSearch, isSearching }) {
 
   return (
     <header className="container flex-column align-items-center">
-      <h1 className="text-primary mb-0 title">#ILUIGBO</h1>
+      <h1 className="text-primary mb-0 title">
+        <Link to="/">#ILUIGBO</Link>
+      </h1>
       <p className="small slogan">mmanụ ndị Igbo ji eri okwu</p>
       <form
         className="search-form form-group col-sm-6 ml-auto mr-auto"
         onSubmit={handleSearch}
       >
         <p className="text-center small">
-          Collection of over <span className="font-weight-bold">1000</span> Igbo
-          proverbs. Searchable by topics or constituent words in both Igbo and
-          English
+          Collection of over{" "}
+          <span className="font-weight-bold">
+            {count || <FontAwesomeIcon icon={faSpinner} spin />}
+          </span>{" "}
+          Igbo proverbs. Searchable by topics or constituent words in both Igbo
+          and English
         </p>
         <div className="input-group">
           <input
