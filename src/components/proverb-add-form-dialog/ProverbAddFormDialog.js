@@ -45,7 +45,7 @@ export function ProverbAddFormDialog({ handleClose, proverb = {} }) {
   }, []);
 
   function onSubmit() {
-    const proverb = {
+    const payload = {
       text,
       literalTranslation,
       meaning,
@@ -53,10 +53,17 @@ export function ProverbAddFormDialog({ handleClose, proverb = {} }) {
       tags,
     };
     setCreating(true);
-    api.createProverb(proverb, () => {
+
+    const done = () => {
       setCreating(false);
       setCreated(true);
-    });
+    };
+
+    if (proverb.id) {
+      api.updateProverb(payload, proverb.id, done);
+    } else {
+      api.createProverb(payload, done);
+    }
   }
 
   function handleAutocomplete(e, value) {
@@ -64,10 +71,10 @@ export function ProverbAddFormDialog({ handleClose, proverb = {} }) {
   }
 
   function initializeFields() {
-    setText(proverb.text);
-    setLiteralTranslation(proverb.literalTranslation);
-    setMeaning(proverb.meaning);
-    setMoreInfo(proverb.moreInfo);
+    setText(proverb.text || '');
+    setLiteralTranslation(proverb.literalTranslation || '');
+    setMeaning(proverb.meaning || '');
+    setMoreInfo(proverb.moreInfo || '');
     setTags(proverb.tags || []);
   }
 

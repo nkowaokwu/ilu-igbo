@@ -9,7 +9,7 @@ export function Proverbs({ proverbs, className: cn, ...rest }) {
           <ProverbCard proverb={proverb} key={proverb.id} />
         ))
       ) : (
-        <p>Ooops! No proverbs found</p>
+        <p className="text-center w-100">Ooops! No proverbs found</p>
       )}
     </div>
   );
