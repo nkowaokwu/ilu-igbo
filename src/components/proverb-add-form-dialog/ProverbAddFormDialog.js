@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
 import {
   Dialog,
   DialogActions,
@@ -8,46 +8,41 @@ import {
   TextField,
   Button,
   Input,
-} from "@material-ui/core";
-import { makeStyles } from "@material-ui/core/styles";
-import { Autocomplete } from "@material-ui/lab";
-import * as api from "../../services/db-service";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faSpinner } from "@fortawesome/free-solid-svg-icons";
-import { Loading, Notification } from "../";
+} from '@material-ui/core';
+import { makeStyles } from '@material-ui/core/styles';
+import { Autocomplete } from '@material-ui/lab';
+import * as api from '../../services/db-service';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faSpinner } from '@fortawesome/free-solid-svg-icons';
+import { Loading, Notification } from '../';
 
 const useStyles = makeStyles((theme) => ({
   root: {
     width: 500,
-    "& > * + *": {
+    '& > * + *': {
       marginTop: theme.spacing(3),
     },
   },
 }));
 
-export function ProverbAddFormDialog({
-  handleClose,
-  handleSubmit,
-  isOpen,
-  isCreating,
-  isCreated,
-  setCreated,
-}) {
-  const [text, setText] = useState("");
-  const [literalTranslation, setLiteralTranslation] = useState("");
-  const [meaning, setMeaning] = useState("");
-  const [moreInfo, setMoreInfo] = useState("");
+export function ProverbAddFormDialog({ handleClose, proverb = {} }) {
+  const [text, setText] = useState('');
+  const [literalTranslation, setLiteralTranslation] = useState('');
+  const [meaning, setMeaning] = useState('');
+  const [moreInfo, setMoreInfo] = useState('');
   // const [audio, setAudio] = useState("");
   const [tags, setTags] = useState([]);
   const [allTags, setAllTags] = useState([]);
+  const [isCreating, setCreating] = useState(false);
+  const [isCreated, setCreated] = useState(false);
 
   useEffect(() => {
     api.initializeFirebase();
     api.fetchTags(setAllTags);
   }, []);
   useEffect(() => {
-    clearFields();
-  }, [isOpen]);
+    initializeFields();
+  }, []);
 
   function onSubmit() {
     const proverb = {
@@ -57,19 +52,23 @@ export function ProverbAddFormDialog({
       moreInfo,
       tags,
     };
-    handleSubmit(proverb);
+    setCreating(true);
+    api.createProverb(proverb, () => {
+      setCreating(false);
+      setCreated(true);
+    });
   }
 
   function handleAutocomplete(e, value) {
     setTags([...value]);
   }
 
-  function clearFields() {
-    setText("");
-    setLiteralTranslation("");
-    setMeaning("");
-    setMoreInfo("");
-    setTags([]);
+  function initializeFields() {
+    setText(proverb.text);
+    setLiteralTranslation(proverb.literalTranslation);
+    setMeaning(proverb.meaning);
+    setMoreInfo(proverb.moreInfo);
+    setTags(proverb.tags || []);
   }
 
   return (
@@ -87,12 +86,10 @@ export function ProverbAddFormDialog({
         />
       )}
 
-      <Dialog
-        open={isOpen}
-        onClose={handleClose}
-        aria-labelledby="form-dialog-title"
-      >
-        <DialogTitle id="add-form-dialog-title">Add New Proverb</DialogTitle>
+      <Dialog open onClose={handleClose} aria-labelledby="form-dialog-title">
+        <DialogTitle id="add-form-dialog-title">
+          {proverb.text ? 'Edit' : 'Add New'} Proverb
+        </DialogTitle>
         <DialogContent>
           <DialogContentText>fields marked * are required</DialogContentText>
           <TextField
@@ -176,7 +173,7 @@ export function ProverbAddFormDialog({
             {isCreating && (
               <FontAwesomeIcon icon={faSpinner} spin className="mr-2" />
             )}
-            {isCreating ? "Submitting..." : "Submit"}
+            {isCreating ? 'Submitting...' : 'Submit'}
           </Button>
         </DialogActions>
       </Dialog>

@@ -15,8 +15,6 @@ function App() {
   const [query, setQuery] = useState();
   const [proverbs, setProverbs] = useState([]);
   const [addDialogOpen, setAddDialogOpen] = useState(false);
-  const [isCreating, setCreating] = useState(false);
-  const [isCreated, setCreated] = useState(false);
   const [totalCount, setTotalCount] = useState(0);
 
   useEffect(() => {
@@ -39,17 +37,6 @@ function App() {
 
   function handleDialogClose() {
     setAddDialogOpen(false);
-  }
-
-  function handleProverbCreateEnd(res) {
-    setCreating(false);
-    setCreated(true);
-  }
-
-  function handleAddProverb(prov) {
-    console.log("about to create new proverb:", prov);
-    setCreating(true);
-    api.createProverb(prov, handleProverbCreateEnd);
   }
 
   return (
@@ -83,14 +70,7 @@ function App() {
             <Footer />
 
             {/* add-new-proverb form dialog */}
-            <ProverbAddFormDialog
-              handleSubmit={handleAddProverb}
-              handleClose={handleDialogClose}
-              isOpen={addDialogOpen}
-              isCreating={isCreating}
-              isCreated={isCreated}
-              setCreated={setCreated}
-            ></ProverbAddFormDialog>
+            {addDialogOpen && <ProverbAddFormDialog handleClose={handleDialogClose}></ProverbAddFormDialog>}
           </div>
         </ThemeProvider>
       </Router>{" "}
