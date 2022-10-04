@@ -35,21 +35,22 @@ export function fetchProverbs(done) {
 export function createProverb(payload, done) {
   // Get a key for a new Post.
   var newPostKey = db.ref().child("proverbs").push().key;
-
-  // Write the new post's data simultaneously in the posts list and the user's post list.
-  var updates = {};
-  updates["/proverbs/" + newPostKey] = payload;
-  if (payload.tags && Array.isArray(payload.tags)) {
-    payload.tags.forEach((tag) => {
-      updates["/tags/" + tag + "/proverbs/" + newPostKey] = true;
-      updates["tag-names/" + tag] = true;
-    });
-  }
-
-  return firebase.database().ref().update(updates, done);
+  this.updateProverb(payload, newPostKey, done)
 }
 
-export function updateProverb(payload) {}
+export function updateProverb(payload, id, done) {
+   // Write the new post's data simultaneously in the posts and the tags lists.
+   var updates = {};
+   updates["/proverbs/" + id] = payload;
+   if (payload.tags && Array.isArray(payload.tags)) {
+     payload.tags.forEach((tag) => {
+       updates["/tags/" + tag + "/proverbs/" + id] = true;
+       updates["tag-names/" + tag] = true;
+     });
+   }
+ 
+   return firebase.database().ref().update(updates, done);
+}
 
 export function queryProverbs(query) {
   if (!query) return allProverbs;
